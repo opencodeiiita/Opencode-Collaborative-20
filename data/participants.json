@@ -821,6 +821,16 @@
 
 
 {
+"name":"Varun Bhardwaj",
+"imageurl":"",
+"about":"Just trying",
+"college":"IIIT-ALLAHABAD",
+"facebook":"",
+"github":"https://github.com/starboi02",
+"twitter":"",
+"referral":"Mail"
+},
+ {
 		      "name": "Sanskar Patro",
           "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
           "about": "Trying to find my 'thing'",
@@ -830,9 +840,6 @@
           "twitter": "url",
           "referral": "Beloved seniors?"
 	}
- 
-
-
 
 
 ]
