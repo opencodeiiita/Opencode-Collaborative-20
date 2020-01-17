@@ -106,7 +106,7 @@
         "twitter" : "",
         "referral" : ""
      },
-,
+
 
      {
         "name" : "Rishika Agarwal",
@@ -117,7 +117,17 @@
         "github" : "https://github.com/rishika8910",
         "twitter" : "",
         "referral" : "seniors"
-     }
+     },
+{
+		"name": "Anmol Bansal",
+		"imageurl": "https://https://drive.google.com/drive/u/0/my-drive",
+		"about": "Believe me, you can trust me!",
+		"college": "IIIT Allahabad",
+		"facebook": "https://www.https://www.facebook.com/anmol.bansal.33886",
+		"github": "https://github.com/ABans1",
+		"twitter": "https://twitter.com/AnmolBa99689656",
+		"referral": "Seniors"
+	},
 ]
 
 
