@@ -959,11 +959,13 @@
 }
  {
  "name" : "Naina Kumari",
- "imageurl" :"",
+ "imageurl":"",
  "about" :"",
  "college": "IIIT ALLAHABAD",
  "facebook":"",
  "github" : "https://github.com/iit2019004",
+ "twitter":"",
+ "referral":""
  }
 
 
