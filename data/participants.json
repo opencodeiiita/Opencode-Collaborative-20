@@ -1,6 +1,16 @@
 
 [
-	{
+    {
+        "name": "Karan Kunwar",
+        "imageurl": "https://avatars3.githubusercontent.com/u/54117043?s=400&u=3074376ea0434711036f80e742a369b7ee72005c&v=4",
+        "about": "Hi There!",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/karan.kunwar.718",
+        "github": "https://github.com/southpole01",
+        "twitter": "",
+        "referral": "Akshat Baranwal"
+    },
+    {
 		"name": "Sumit Kumar Sahu",
 		"imageurl": "https://avatars2.githubusercontent.com/u/58073775?s=400&u=b3d37d6180a35eb9a212c588c4e161d773900ec7&v=4",
 		"about": "Hello world",
