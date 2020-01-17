@@ -1,5 +1,28 @@
+
+
+
 [
+  {
+    "name" : "Tamoghno Bhattacharya",
+    "imageurl" : "https://avatars1.githubusercontent.com/u/58668088?s=460&v=4",
+    "about" : "Hello I'm a first year student IIITA currently into competitive coding and AI",
+    "college" : "IIIT Allahabad",
+    "facebook" : "",
+    "github" : "github.com/TamoghnoBhattacharya",
+    "twitter" : "",
+    "referral" : "Seniors at college and 30 DoC"
+  },
     {
+    "name" : "Pranav Sai",
+    "imageurl" : "chttps://imgur.com/5GhGjTk",
+    "about" : "I love to code",
+    "college" : "IIIT Allahabad",
+    "facebook" : "https://www.facebook.com/pranav.sai.520125",
+    "github" : "https://github.com/theblackswann",
+    "twitter" : "",
+    "referral" : "My seniors"
+    },
+  {
 	"name": "Avneesh Kumar",
 	"imageurl": "contestant/avatar.jpg",
 	"about": "Hello I'm a developer",
@@ -29,6 +52,7 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
+
      },
      {
 	"name": "Vishwas Singh",
@@ -40,16 +64,6 @@
 	"twitter": "",
 	"referral": "Seniors"
      },
-      
+  
 ]
-
-
-
-
-
-
-
-
-
-
 
