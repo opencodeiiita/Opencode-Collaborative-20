@@ -410,7 +410,18 @@
         "twitter" : "",
         "referral" : "seniors"
      },
-,
+	{
+
+       "name" : "Pratyush Pareek",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Oblivious to what's going on",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100004596615880",
+       "github" : "https://github.com/PratyushPareek",
+       "twitter" : "",
+       "referral" : "GeekHaven"
+    },	
+
       {
         "name" : "Varun Tiwari",
         "imageurl" : "https://avatars2.githubusercontent.com/u/58032608?s=460&v=4",
@@ -421,6 +432,7 @@
         "twitter" : "https://twitter.com/iamvarun11",
         "referral" : "Seniors"
      },
+
 
         
 
