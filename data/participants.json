@@ -45,7 +45,19 @@
         "github" : "https://github.com/Evadore",
         "twitter" : "https://twitter.com/Prasanthkota2",
         "referral" : "Seniors@IIIT-Allahabad"
+
      },
+     {
+	"name": "Vishwas Singh",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "I play piano ;)",
+	"college": "IIIT-Allahabad",
+	"facebook": "https://www.facebook.com/urstrulyvishu",
+	"github": "https://github.com/infern018",
+	"twitter": "",
+	"referral": "Seniors"
+     },
+  
 	{
 
          "name" : "Pranav Singhal",
@@ -67,6 +79,7 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
      },
 	{
 
@@ -81,6 +94,19 @@
      }
 	
   },
+	 {
+
+        "name" : "Garvit Chittora",
+        "imageurl" : "img/garvitchittora.jpg",
+        "about" : "My first task",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/garvit.chittora.90",
+        "github" : "https://github.com/garvitchittora",
+        "twitter" : "https://twitter.com/ChittoraGarvit",
+        "referral" : "Seniors"
+     },
+	 
+
      {
 	    "name" : "Anirudh Arora",
         "imageurl" : "https://avatars3.githubusercontent.com/u/54004463?s=40&v=4",
@@ -90,11 +116,6 @@
         "github" : "https://github.com/Xenomorphing19",
         "twitter" : "",
         "referral" : "Archisha Baranwal"
-
-
-
-
-
 
      },
 	
