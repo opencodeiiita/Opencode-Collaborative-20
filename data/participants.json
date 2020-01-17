@@ -1,24 +1,5 @@
 
-[{
-		"name": "Avneesh Kumar",
-		"imageurl": "contestant/avatar.jpg",
-		"about": "Hello I'm a developer",
-		"college": "IIITA",
-		"facebook": "https://www.facebook.com/avaneeshsahu000",
-		"github": "https://github.com/Cybertron-Avneesh",
-		"twitter": "",
-		"referral": "Seniors"
-	},
-	{
-		"name": "Shreyas Gupta",
-		"imageurl": "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
-		"about": "On my journey of Software Development",
-		"college": "IIIT Allahabad",
-		"facebook": "https://www.facebook.com/shreyashwr",
-		"github": "https://github.com/sggts04",
-		"twitter": "https://twitter.com/sggts04",
-		"referral": ""
-	},
+[
 	{
 		"name": "Sumit Kumar Sahu",
 		"imageurl": "https://avatars2.githubusercontent.com/u/58073775?s=400&u=b3d37d6180a35eb9a212c588c4e161d773900ec7&v=4",
@@ -80,26 +61,7 @@
     "twitter" : "",
     "referral" : "My seniors"
     },
-  {
-	"name": "Avneesh Kumar",
-	"imageurl": "contestant/avatar.jpg",
-	"about": "Hello I'm a developer",
-	"college": "IIITA",
-	"facebook": "https://www.facebook.com/avaneeshsahu000",
-	"github": "https://github.com/Cybertron-Avneesh",
-	"twitter": "",
-	"referral": "Seniors"
-    },
-     {
-        "name" : "Shreyas Gupta",
-        "imageurl" : "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
-        "about" : "On my journey of Software Development",
-        "college" : "IIIT Allahabad",
-        "facebook" : "https://www.facebook.com/shreyashwr",
-        "github" : "https://github.com/sggts04",
-        "twitter" : "https://twitter.com/sggts04",
-        "referral" : ""
-     },
+  
      {
 
         "name" : "Janit Lodha",
@@ -143,7 +105,7 @@
         "github" : "https://github.com/rohini13",
         "twitter" : "",
         "referral" : ""
-     }
+     },
 ,
 
      {
