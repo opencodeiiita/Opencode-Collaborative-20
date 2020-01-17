@@ -777,6 +777,18 @@
         "referral" : ""
      },
 
+     {
+	"name" : "Vishal Burman",
+	"imageurl" : "contestant/avatar.jpg",
+	"about" : "Hello I'm a developer",
+	"college" : "IIITA",
+	"facebook" : "https://www.facebook.com/vishalbrman",
+	"github" : "https://github.com/black-cat01",
+	"twitter" : "",
+	"referral" : ""
+      }
+
+
 {
 		      "name": "Sanskar Patro",
           "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
@@ -788,6 +800,7 @@
           "referral": "Beloved seniors?"
 	}
  
+
 
 
 
