@@ -1,3 +1,4 @@
+
 [
   {
         "name": "Karan Kunwar",
@@ -10,6 +11,7 @@
         "referral": "Akshat Baranwal"
     },
   {
+
 		"name": "Avneesh Kumar",
 		"imageurl": "contestant/avatar.jpg",
 		"about": "Hello I'm a developer",
@@ -577,7 +579,28 @@
 
 
 
+        
+
+    
+	
+	
+{ 
+
+	"name": "Aman Singh",
+	"imageurl": "https://avatars0.githubusercontent.com/u/53997924?s=460&v=4",
+	"about": "Eager to learn",
+	"college": "IIIT Allahabad",
+	"facebook": "https://www.facebook.com/Am4nS1ngh",
+	"github": "https://github.com/prince-7",
+	"twitter": "",
+	"referral": "Geek-Haven"
+
+
+    }	,
+
+
   { 
+
 
 "name":"Aniemsh Choudhury",
 "imageurl":"",
@@ -861,7 +884,7 @@
           "twitter": "url",
           "referral": "Beloved seniors?"
 
-	},
+ },
 {
 "name":"Ankit Gupta",
 "imageurl":"",
@@ -871,10 +894,9 @@
 "github":"https://github.com/ankit4284",
 "twitter":"",
 "referral":"friends"
-},
+}
  
 
 
+
 ]
-
-
