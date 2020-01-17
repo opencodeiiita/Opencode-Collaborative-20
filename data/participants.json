@@ -446,7 +446,19 @@
         "github" : "https://github.com/griffy06",
         "twitter" : "",
         "referral" : ""
-     }
+     },
+
+
+     {
+        "name" : "Priya Bhagat",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/60014860?s=460&v=4",
+        "about" : "just a try towards this",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/profile.php?id=100040375114023",
+        "github" : "https://github.com/tony-stark-rdj",
+        "twitter" : "",
+        "referral" : "seniors"
+     },
 
 	  {
 		  "name" : "Shyam Tayal",
