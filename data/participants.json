@@ -94,9 +94,8 @@
          "twitter" : "",
          "referral" : "Sumit Kumar Sahu"
       },
-	{
 
-        "name" : "Saksham Sood",
+	{  "name" : "Saksham Sood",
         "imageurl" : "contestant/avatar.jpg",
         "about" : "Hello I'm a web developer",
         "college" : "IIIT Allahabad",
@@ -104,7 +103,19 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
-     }
+     },
+	
+    {
+	"name" : "Ananya Mohanty",
+         "imageurl" : "",
+         "about" : "Just trying",
+         "college" : "IIIT-ALLAHABAD",
+         "facebook" : "",
+         "github" : "https://github.com/ananya-mohanty",
+         "twitter" : "",
+         "referral" : ""
+    }
+	
 
 ]
 
