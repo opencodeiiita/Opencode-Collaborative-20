@@ -83,8 +83,26 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
-     }
+     },
+     {
 
+        "name" : "Saksham Sood",
+        "imageurl" : "contestant/avatar.jpg",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Yolo86",
+        "twitter" : "",
+        "referral" : "Seniors"
+     }
 ]
+
+
+
+
+
+
+
+
 
 
