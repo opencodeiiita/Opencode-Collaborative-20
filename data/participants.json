@@ -45,7 +45,19 @@
         "github" : "https://github.com/Evadore",
         "twitter" : "https://twitter.com/Prasanthkota2",
         "referral" : "Seniors@IIIT-Allahabad"
+
      },
+     {
+	"name": "Vishwas Singh",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "I play piano ;)",
+	"college": "IIIT-Allahabad",
+	"facebook": "https://www.facebook.com/urstrulyvishu",
+	"github": "https://github.com/infern018",
+	"twitter": "",
+	"referral": "Seniors"
+     },
+  
 	{
 
          "name" : "Pranav Singhal",
@@ -91,11 +103,6 @@
         "github" : "https://github.com/Xenomorphing19",
         "twitter" : "",
         "referral" : "Archisha Baranwal"
-
-
-
-
-
      },
     
 
