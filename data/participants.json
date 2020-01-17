@@ -83,7 +83,17 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
-     }
+     },
+     {
+	"name" : "Vishal Burman",
+	"imageurl" : "contestant/avatar.jpg",
+	"about" : "Hello I'm a developer",
+	"college" : "IIITA",
+	"facebook" : "https://www.facebook.com/vishalbrman",
+	"github" : "https://github.com/black-cat01",
+	"twitter" : "",
+	"referral" : ""
+      }
 
 ]
 
