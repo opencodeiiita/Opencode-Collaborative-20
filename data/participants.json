@@ -1,6 +1,5 @@
-
 [
-{
+  {
 		"name": "Avneesh Kumar",
 		"imageurl": "contestant/avatar.jpg",
 		"about": "Hello I'm a developer",
@@ -20,6 +19,7 @@
 		"twitter": "https://twitter.com/sggts04",
 		"referral": ""
 	},
+
 
 
      {
@@ -174,7 +174,9 @@
 
 
 
+
 	{
+
 
 
 
@@ -186,6 +188,7 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
 
 
 
@@ -220,6 +223,7 @@
 
      },
 
+
      {
      	"name" : "Aaryan Bhardwaj",
      	"imageurl" : "https://avatars2.githubusercontent.com/u/57333555?s=400&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4",
@@ -232,7 +236,6 @@
      },
      {
 
-	
 	"name": "Piyush Gurjar",
 	"imageurl": "img/Piyush.jpg",
 	"about": "Still a learner",
@@ -268,7 +271,9 @@
         "referral" : ""
      },
 
+
  {
+
         "name" : "Rishika Agarwal",
         "imageurl" : "https://i.pinimg.com/originals/b4/b4/4d/b4b44d3367a51b5f4cc9d35a6307b594.png",
         "about" : "Just a beginner, but soon an expert",
@@ -299,6 +304,7 @@
          "github" : "https://github.com/ananya-mohanty",
          "twitter" : "",
          "referral" : ""
+
 	
 
 
@@ -479,6 +485,7 @@
         "twitter" : "",
         "referral" : "seniors"
      },
+
 	{
 
        "name" : "Pratyush Pareek",
@@ -489,6 +496,7 @@
        "github" : "https://github.com/PratyushPareek",
        "twitter" : "",
        "referral" : "GeekHaven"
+
     },	
 
       {
@@ -748,4 +756,7 @@
 	}
  
 
+
 ]
+
+
