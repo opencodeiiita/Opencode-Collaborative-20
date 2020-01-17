@@ -104,6 +104,16 @@
         "twitter" : "",
         "referral" : "Seniors"
      }
+	 {
+        "name" : "Varun Tiwari",
+        "imageurl" : "https://avatars2.githubusercontent.com/u/58032608?s=460&v=4",
+        "about" : "Making my way to the world of OpenSource",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/varun.t11",
+        "github" : "https://github.com/VarunT11",
+        "twitter" : "https://twitter.com/iamvarun11",
+        "referral" : "Seniors"
+     },
 
 ]
 
