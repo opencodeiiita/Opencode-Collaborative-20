@@ -63,7 +63,6 @@
     },
   
      {
-
         "name" : "Janit Lodha",
         "imageurl" : "https://avatars3.githubusercontent.com/u/53757279?s=460&v=4",
         "about" : "Exploring the great world!",
@@ -73,6 +72,18 @@
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
      },
+
+	{
+        "name" : "Vishwas Singh",
+        "imageurl" : "https://avatars1.githubusercontent.com/u/52378712?s=400&u=8b2d9efae99a3ee0f4d40075592a236fe34bcf61&v=4",
+        "about" : "I can play piano",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/urstrulyvishu",
+        "github" : "https://github.com/infern018",
+        "twitter" : "https://twitter.com/urstrulystupid",
+        "referral" : ""
+     },
+
      {
          "name" : "Pranav Singhal",
          "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
@@ -93,8 +104,13 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
+
+
+
      },
      {
+
 
 	
 	"name": "Piyush Gurjar",
@@ -107,11 +123,20 @@
 	"twitter": "",
 	"referral": "Geek Heaven"
      },
-]
+  {
+
+        "name" : "Abhijeet Sonkar",
+        "imageurl" : "https://avatars1.githubusercontent.com/u/53171003?s=400&v=4",
+        "about" : "Hello I'm a Software Developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Abhijeet-sonkar",
+        "twitter" : "",
+        "referral" : ""
+     },
 
 
 
-=======
 
 	{
 
