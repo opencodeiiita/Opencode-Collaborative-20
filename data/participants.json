@@ -1,5 +1,19 @@
 
+
+
 [
+  {
+
+	"name": "Swarnam",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Hello I'm a web developer",
+	"college": "IIIT Allahabad",
+	"facebook": " ",
+	"github": "https://github.com/Luna-Lovegood97",
+	"twitter": " ",
+	"referral": "College Mail"
+},
+
 	{
 		"name": "Sumit Kumar Sahu",
 		"imageurl": "https://avatars2.githubusercontent.com/u/58073775?s=400&u=b3d37d6180a35eb9a212c588c4e161d773900ec7&v=4",
@@ -116,6 +130,7 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
 
 
 
