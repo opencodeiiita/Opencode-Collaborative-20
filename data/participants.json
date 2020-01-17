@@ -903,6 +903,18 @@
           "referral": "Beloved seniors?"
 
 	},
+       {
+          "name": "Pavika Chaudhary",
+          "imageurl": "",
+          "about": "Carpediam",
+          "college": "IIIT Allahabad",
+          "facebook": "",
+          "github": "https://github.com/pavikachaudhary",
+          "twitter": "url",
+          "referral": ""
+	
+
+	},
 	{
         "name": "Harshit Sinha",
         "imageurl": "https://avatars1.githubusercontent.com/u/53996897?s=400&u=97e175a3dd9317cadaf7344108ece1c034d43cdc&v=4",
@@ -926,6 +938,7 @@
 	"twitter":"",
 	"referral":"E-Mail"
 	},
+
 
 
 
