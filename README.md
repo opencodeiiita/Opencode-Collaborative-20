@@ -1,6 +1,6 @@
 # [Opencode Collaborative 2020](https://opencodeiiita.github.io/)
 
-![Opencode](assets/img/opencode-banner.jpg)
+![Opencode](https://github.com/opencodeiiita/Opencode-Collaborative-19/raw/master/assets/img/opencode-banner.jpg)
 
 [![OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencode18.github.io)
 
