@@ -490,7 +490,19 @@
         "github" : "https://github.com/tony-stark-rdj",
         "twitter" : "",
         "referral" : "seniors"
+
      },
+	
+	{
+        "name" : "Muskan Deep Kaur Maini",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58771504?s=400&u=466b3f50f9f4e39fe570d338bce80cdaac2a54b6&v=4",
+        "about" : "Hey, I am a learner",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/muskandeep.kaur.520",
+        "github" : "https://github.com/mendelevium28",
+        "twitter" : "",
+        "referral" : ""
+	},
 
 	  {
 		  "name" : "Shyam Tayal",
@@ -556,24 +568,7 @@
      },
 
 
-        
 
-    
-	
-	{
-
-       "name" : "Pratyush Pareek",
-       "imageurl" : "contestant/avatar.jpg",
-       "about" : "Hello I'm a web developer",
-       "college" : "IIIT Allahabad",
-       "facebook" : "https://www.facebook.com/profile.php?id=100004596615880",
-       "github" : "https://github.com/PratyushPareek",
-       "twitter" : "",
-       "referral" : "GeekHaven"
-
-
-
-    }	,
   { 
 
 "name":"Aniemsh Choudhury",
