@@ -903,6 +903,18 @@
           "referral": "Beloved seniors?"
 
 	},
+	{
+        "name": "Harshit Sinha",
+        "imageurl": "https://avatars1.githubusercontent.com/u/53996897?s=400&u=97e175a3dd9317cadaf7344108ece1c034d43cdc&v=4",
+        "about": "I'm a 1st year student learning competitive coding and web develpoment",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/harshit.sinha.167189",
+        "github": "https://github.com/harsh-797",
+        "twitter": "",
+        "referral": "Seniors"
+	
+
+	},
 
 	{
 	"name":"Arpit Agarwal",
@@ -914,6 +926,7 @@
 	"twitter":"",
 	"referral":"E-Mail"
 	},
+
 
 
 
