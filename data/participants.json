@@ -84,6 +84,15 @@
         "referral" : ""
      },
      {
+         "name" : "Pranav Singhal",
+         "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
+         "about" : "Hey Virtual World,i am here just connecting the dots :P",
+         "college" : "IIIT-ALLAHABAD",
+         "facebook" : "https://www.facebook.com/profile.php?id=100012986645515",
+         "github" : "https://github.com/singhalpranav22",
+         "twitter" : "",
+         "referral" : "Sumit Kumar Sahu"
+      }
 
         "name" : "Saksham Sood",
         "imageurl" : "contestant/avatar.jpg",
@@ -93,6 +102,7 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
 
      },
      {
@@ -104,7 +114,8 @@
         "github" : "https://github.com/Abhijeet-sonkar",
         "twitter" : "",
         "referral" : ""
-     } 
+     }
+
 ]
 
 
