@@ -29,6 +29,16 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
+     },
+     {
+        "name" : "Mridul Mittal",
+        "imageurl" : "img/Mridul.jpg",
+        "about" : Hello I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/mridul.mittal.90",
+        "github" : "https://github.com/Mridul20",
+        "twitter" : "https://twitter.com/MridulMittal20",
+        "referral" : "GeekHaven"
      }
 ]
 
