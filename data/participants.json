@@ -51,6 +51,16 @@
 	"referral": "College Mail"
 },
 
+    {
+        "name" : "Akshat Baranwal",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/31817177?s=460&v=4",
+        "about" : "ALIVE",
+        "college": "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/akshat.baranwal",
+        "github" : "https://github.com/AkshatBaranwal",
+        "twitter" : "https://twitter.com/baranwal_akshat",
+        "referral" : "Karan Kunwar"
+    },
 
 	{
 		"name": "Sumit Kumar Sahu",
