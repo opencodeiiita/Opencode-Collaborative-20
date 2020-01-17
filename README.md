@@ -100,10 +100,6 @@ We will follow the official GitHub documentation for setting up the repo.
 * Add relevant commit message in the pr, mention issue number and live link to comment while making pr.
 * **Note**: In case you feel any issue during setting up the project or using git, don't hesitate to ask us on our slack channel. We will help you out.
 
-## Claiming up an issue
-
-- To claim an issue please comment on the issue as `@opencodebot claim` and the bot will assign you the issue.
-
 ## Guidelines and Best practices
 
 Please help us follow the best practice to make it easy for the reviewer as well as the contributor. We want to focus on the code quality more than on managing pull request ethics.
