@@ -67,7 +67,21 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
      },
+	 {
+
+        "name" : "Garvit Chittora",
+        "imageurl" : "img/garvitchittora.jpg",
+        "about" : "My first task",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/garvit.chittora.90",
+        "github" : "https://github.com/garvitchittora",
+        "twitter" : "https://twitter.com/ChittoraGarvit",
+        "referral" : "Seniors"
+     },
+	 
+
      {
 	    "name" : "Anirudh Arora",
         "imageurl" : "https://avatars3.githubusercontent.com/u/54004463?s=40&v=4",
