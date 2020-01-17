@@ -236,7 +236,17 @@
         "twitter" : "",
         "referral" : "seniors"
      },
-    {
+  {
+	       "name" : "Ananya Mohanty",
+         "imageurl" : "",
+         "about" : "Just trying",
+         "college" : "IIIT-ALLAHABAD",
+         "facebook" : "",
+         "github" : "https://github.com/ananya-mohanty",
+         "twitter" : "",
+         "referral" : ""
+    },
+ {
 		      "name": "Sanskar Patro",
           "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
           "about": "Trying to find my 'thing'",
@@ -246,4 +256,6 @@
           "twitter": "url",
           "referral": "Beloved seniors?"
 	}
+	
 ]
+
