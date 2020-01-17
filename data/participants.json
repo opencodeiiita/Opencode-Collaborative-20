@@ -247,6 +247,39 @@
          "twitter" : "",
          "referral" : ""
     },
+    {
+	"name": "Avneesh Kumar",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Hello I'm a developer",
+	"college": "IIITA",
+	"facebook": "https://www.facebook.com/avaneeshsahu000",
+	"github": "https://github.com/Cybertron-Avneesh",
+	"twitter": "",
+	"referral": "Seniors"
+    },
+     {
+        "name" : "Shreyas Gupta",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
+        "about" : "On my journey of Software Development",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/shreyashwr",
+        "github" : "https://github.com/sggts04",
+        "twitter" : "https://twitter.com/sggts04",
+        "referral" : ""
+     },
+	
+	{
+
+       "name" : "Pratyush Pareek",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100004596615880",
+       "github" : "https://github.com/PratyushPareek",
+       "twitter" : "",
+       "referral" : "GeekHaven"
+    },
+
 { 
 "name":"Aniemsh Choudhury",
 "imageurl":"",
@@ -447,8 +480,8 @@
 "github":"https://github.com/ananya-mohanty",
 "twitter":"",
 "referral":""
-}
-  {
+},
+{
 		      "name": "Sanskar Patro",
           "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
           "about": "Trying to find my 'thing'",
