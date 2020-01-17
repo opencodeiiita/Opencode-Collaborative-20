@@ -81,6 +81,19 @@
         "referral" : "Seniors"
 
      },
+	{
+
+        "name" : "Cheena",
+        "imageurl" : "",
+        "about" : "Trying to figure out the path to the world of open source",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/griffy06",
+        "twitter" : "",
+        "referral" : ""
+     }
+	
+  },
 	 {
 
         "name" : "Garvit Chittora",
@@ -103,11 +116,8 @@
         "github" : "https://github.com/Xenomorphing19",
         "twitter" : "",
         "referral" : "Archisha Baranwal"
+
      },
-    
-
-
-
 	
 	{
 
