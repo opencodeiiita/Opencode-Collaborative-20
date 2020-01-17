@@ -2,6 +2,22 @@
 
 
 [
+
+
+    
+     {
+
+       "name" : "Aniemsh Choudhury",
+       "imageurl" : "",
+       "about" : "Hello ",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/animesh.choudhury.5477",
+       "github" : "https://github.com/animesh328",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
+
+
   {
 
 	"name": "Swarnam",
@@ -55,6 +71,7 @@
         "twitter": "https://twitter.com/sggts04",
         "referral": ""
     },
+
     {
         "name": "Pradhuman Singh Baid",
         "imageurl": "https://avatars1.githubusercontent.com/u/54749108?s=460&v=4",
@@ -120,7 +137,11 @@
          "twitter" : "",
          "referral" : "Sumit Kumar Sahu"
       },
+
+
+
 	{
+
 
         "name" : "Saksham Sood",
         "imageurl" : "contestant/avatar.jpg",
@@ -188,4 +209,5 @@
         "referral" : "seniors"
      }
 ]
+
 
