@@ -81,6 +81,20 @@
         "referral" : "Seniors"
 
      },
+
+     {
+	"name" : "Ashish Kanoujia",
+	"imageurl" : "",
+	"about" : "To explore the vitual world, I begin my journey",
+	"college" : "IIIT Allahabad",
+	"facebook" : "",
+	"github" : "https://github.com/Halfsoul24",
+	"twitter" : "",
+	"referral" : "Seniors"
+     
+
+     },
+
 	{
 
         "name" : "Cheena",
@@ -94,7 +108,9 @@
      }
 	
   },
+
 	 {
+
 
         "name" : "Garvit Chittora",
         "imageurl" : "img/garvitchittora.jpg",
