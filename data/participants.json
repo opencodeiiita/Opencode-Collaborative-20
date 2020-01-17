@@ -19,7 +19,21 @@
         "github" : "https://github.com/sggts04",
         "twitter" : "https://twitter.com/sggts04",
         "referral" : ""
+
      },
+    
+      {
+
+  	"name": "Shubhang Singh",
+  	"imageurl": "",
+  	"about": "Hello I'm a web developer and an aspring competitive programmer",
+  	"college": "IIIT Allahabad",
+  	"facebook": "",
+  	"github": "https://github.com/shuba400",
+  	"twitter": "",
+  	"referral": "Seniors"
+  },
+
 
      {
 
@@ -55,7 +69,7 @@
         "referral" : "Seniors"
      },
      {
-	"name" : "Anirudh Arora",
+	    "name" : "Anirudh Arora",
         "imageurl" : "https://avatars3.githubusercontent.com/u/54004463?s=40&v=4",
         "about" : "Apun ko kuchh naya seekhne ka hai",
         "college" : "IIIT Allahabad",
