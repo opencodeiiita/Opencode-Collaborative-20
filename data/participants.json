@@ -133,6 +133,19 @@
         "referral" : "Seniors"
      },
 
+	{
+
+        "name" : "Rohini Mishra",
+        "imageurl" : "",
+        "about" : "Escaping the ordinary",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/Rohini13201",
+        "github" : "https://github.com/rohini13",
+        "twitter" : "",
+        "referral" : ""
+     }
+,
+
      {
         "name" : "Rishika Agarwal",
         "imageurl" : "https://i.pinimg.com/originals/b4/b4/4d/b4b44d3367a51b5f4cc9d35a6307b594.png",
