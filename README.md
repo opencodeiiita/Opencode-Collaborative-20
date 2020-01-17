@@ -2,7 +2,7 @@
 
 ![Opencode](https://github.com/opencodeiiita/Opencode-Collaborative-19/raw/master/assets/img/opencode-banner.jpg)
 
-[![OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencode18.github.io)
+[![OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencodeiiita.github.io)
 
 Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
