@@ -39,6 +39,17 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
-     }
-]
+     },
+	 {
+		"name" : "Abhishek Bhaware",
+		"imageurl" : "https://www.facebook.com/abhishek.bhaware.5",
+		"about" : "Exploring the great world!",
+		"college" : "IIIT Allahabad",
+		"facebook" : "https://www.facebook.com/abhishek.bhaware.5",
+		"github" : "https://github.com/abhishekbhaware",
+		"twitter" : "",
+		"referral" : "Seniors"
+	 }
+	 
+]	
 
