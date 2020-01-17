@@ -94,7 +94,19 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+     },
+	{
+
+        "name" : "Cheena",
+        "imageurl" : "",
+        "about" : "Trying to figure out the path to the world of open source",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/griffy06",
+        "twitter" : "",
+        "referral" : ""
      }
+	
 ]
 
 
