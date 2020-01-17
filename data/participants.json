@@ -95,7 +95,7 @@
         "twitter" : "https://twitter.com/Prasanthkota2",
         "referral" : "Seniors@IIIT-Allahabad"
      },
-
+       {
          "name" : "Pranav Singhal",
          "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
          "about" : "Hey Virtual World,i am here just connecting the dots :P",
@@ -170,6 +170,18 @@
         "github" : "https://github.com/rishika8910",
         "twitter" : "",
         "referral" : "seniors"
-     }
+     },
+
+     {
+
+       "name" : "Sankalp Rajendran",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/Sankalp2002",
+       "twitter" : "",
+       "referral" : ""
+    }
 ]
 
