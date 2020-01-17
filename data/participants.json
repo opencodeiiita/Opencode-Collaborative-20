@@ -121,6 +121,21 @@
 
      },
      {
+
+
+	
+	"name": "Piyush Gurjar",
+	"imageurl": "img/Piyush.jpg",
+	"about": "Still a learner",
+	"college": "IIIT Allahabad",
+	"facebook": "https://www.facebook.com/piyush.gurjar.92505",
+	"github": "https://github.com/Piyush4064",
+	"website": "",
+	"twitter": "",
+	"referral": "Geek Heaven"
+     },
+  {
+
         "name" : "Abhijeet Sonkar",
         "imageurl" : "https://avatars1.githubusercontent.com/u/53171003?s=400&v=4",
         "about" : "Hello I'm a Software Developer",
@@ -130,6 +145,7 @@
         "twitter" : "",
         "referral" : ""
      },
+
 
 
 
