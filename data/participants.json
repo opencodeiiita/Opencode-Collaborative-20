@@ -37,6 +37,18 @@
 
      {
 
+        "name" : "Mridul Mittal",
+        "imageurl" : "img/Mridul.jpg",
+        "about" : "Hello I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/mridul.mittal.90",
+        "github" : "https://github.com/Mridul20",
+        "twitter" : "https://twitter.com/MridulMittal20",
+        "referral" : "GeekHaven"
+     },
+  {
+
+
         "name" : "Prasanth Kota",
         "imageurl" : "https://avatars3.githubusercontent.com/u/56782832?s=460&v=4",
         "about" : "Trying to fit myself into this world ",
@@ -59,6 +71,7 @@
      },
   
 	{
+
 
          "name" : "Pranav Singhal",
          "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
