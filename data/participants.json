@@ -731,6 +731,19 @@
 "referral":""
 },
 
+{
+
+       "name" : "Sarthak Maheshwari",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Trying to survive",
+       "college" : "iiit allahabad",
+       "facebook" : "",
+       "github" : "",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
+
+
    {
         "name" : "Chetan Garg",
         "imageurl" : "https://avatars1.githubusercontent.com/u/56266286?s=400&u=602285e782b576c20e85ae131e1d54aff87f158b&v=4",
@@ -753,6 +766,7 @@
           "referral": "Beloved seniors?"
 	}
  
+
 
 
 ]
