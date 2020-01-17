@@ -1,16 +1,14 @@
-[
-    "name" : "Swarnam Sinha",
-    "imageurl" : "swarnam/avatar.jpg",
-    "about" : "Curious to learn",
-    "college" : "IIIT Allahabad",
-    "facebook" : "",
-    "github" : "https://github.com/Luna-Lovegood97",
-    "twitter" : "",
-    "referral" : ""
-    
-    
-]
+{
 
+	"name": "Swarnam",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Hello I'm a web developer",
+	"college": "IIIT Allahabad",
+	"facebook": " ",
+	"github": "https://github.com/Luna-Lovegood97",
+	"twitter": " ",
+	"referral": "College Mail"
+}
 
 
 
