@@ -152,14 +152,18 @@
         "twitter" : "",
         "referral" : "Seniors"
 
-
-
-
-
      },
      {
-
-
+     	"name" : "Aaryan Bhardwaj",
+     	"imageurl" : "https://avatars2.githubusercontent.com/u/57333555?s=400&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4",
+     	"about" : "I am a loquacious turtle.",
+     	"college" : "IIIT Allahabad",
+     	"facebook" : "",
+     	"github" : "https://github.com/uglyprincess",
+     	"twitter" : "",
+     	"referral" : "Pratyush Pareek"
+     },
+     {
 	
 	"name": "Piyush Gurjar",
 	"imageurl": "img/Piyush.jpg",
@@ -182,9 +186,6 @@
         "twitter" : "",
         "referral" : ""
      },
-
-
-
 
 	{
 
