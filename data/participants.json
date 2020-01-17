@@ -1,5 +1,15 @@
 [
     {
+    "name" : "Pranav Sai",
+    "imageurl" : "chttps://imgur.com/5GhGjTk",
+    "about" : "I love to code",
+    "college" : "IIIT Allahabad",
+    "facebook" : "https://www.facebook.com/pranav.sai.520125",
+    "github" : "https://github.com/theblackswann",
+    "twitter" : "",
+    "referral" : "My seniors"
+    },
+  {
 	"name": "Avneesh Kumar",
 	"imageurl": "contestant/avatar.jpg",
 	"about": "Hello I'm a developer",
@@ -31,14 +41,4 @@
         "referral" : ""
      }
 ]
-
-
-
-
-
-
-
-
-
-
 
