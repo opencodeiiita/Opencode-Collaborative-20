@@ -1,6 +1,7 @@
 
 
 
+
 [{
 		"name": "Avneesh Kumar",
 		"imageurl": "contestant/avatar.jpg",
@@ -49,6 +50,7 @@
 	"twitter": " ",
 	"referral": "College Mail"
 },
+
 
 	{
 		"name": "Sumit Kumar Sahu",
@@ -122,6 +124,7 @@
         "github" : "https://github.com/JLodha",
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
+
      },
 
 	{
@@ -138,6 +141,7 @@
 
 
 	{
+
 
         "name" : "Vishwas Singh",
         "imageurl" : "https://avatars1.githubusercontent.com/u/52378712?s=400&u=8b2d9efae99a3ee0f4d40075592a236fe34bcf61&v=4",
@@ -161,7 +165,7 @@
         "twitter" : "https://twitter.com/Prasanthkota2",
         "referral" : "Seniors@IIIT-Allahabad"
      },
-	{
+ {
 
          "name" : "Pranav Singhal",
          "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
@@ -172,6 +176,7 @@
          "twitter" : "",
          "referral" : "Sumit Kumar Sahu"
       },
+
 
 
 
@@ -195,6 +200,7 @@
 
 
      },
+
 {
 
         "name" : "Sagar Barman",
@@ -211,7 +217,7 @@
 
      
 
-     },
+     
      {
         "name":"Ayush Tiwari",
         "imageurl" : "https://avatars0.githubusercontent.com/u/58394100?s=400&v=4",
@@ -250,6 +256,7 @@
      },
   {
 
+
         "name" : "Abhijeet Sonkar",
         "imageurl" : "https://avatars1.githubusercontent.com/u/53171003?s=400&v=4",
         "about" : "Hello I'm a Software Developer",
@@ -259,6 +266,7 @@
         "twitter" : "",
         "referral" : ""
      },
+
 
 
 	{
@@ -274,7 +282,9 @@
      },
 
 
+
  {
+
 
         "name" : "Rishika Agarwal",
         "imageurl" : "https://i.pinimg.com/originals/b4/b4/4d/b4b44d3367a51b5f4cc9d35a6307b594.png",
@@ -284,6 +294,7 @@
         "github" : "https://github.com/rishika8910",
         "twitter" : "",
         "referral" : "seniors"
+
      },
 
      {
@@ -311,6 +322,7 @@
 
 
     },
+
 
     {
 	"name": "Avneesh Kumar",
@@ -550,8 +562,10 @@
        "referral" : "GeekHaven"
 
 
+
     }	,
   { 
+
 "name":"Aniemsh Choudhury",
 "imageurl":"",
 "about":"Hello ",
@@ -751,6 +765,18 @@
 "github":"https://github.com/ananya-mohanty",
 "twitter":"",
 "referral":""
+},
+  
+  
+ {
+	 "name": "Sahil Sharma",
+	 "imageurl" : "https://avatars0.githubusercontent.com/u/55686016?s=400&v=4",
+	"about" : "Eat Sleep Code ",
+	"college" : "IIIT Allahabad",
+	"facebook" : "https://www.facebook.com/profile.php?id=100003689923212",
+	"github" : "https://github.com/Sahil-coder",
+	"twitter" : "",
+	"referral" :""
 },
 
 {
