@@ -94,7 +94,20 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
-     }
+     },
+     {
+
+	
+	"name": "Piyush Gurjar",
+	"imageurl": "img/Piyush.jpg",
+	"about": "Still a learner",
+	"college": "IIIT Allahabad",
+	"facebook": "https://www.facebook.com/piyush.gurjar.92505",
+	"github": "https://github.com/Piyush4064",
+	"website": "",
+	"twitter": "",
+	"referral": "Geek Heaven"
+     },
 ]
 
 
