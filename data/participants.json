@@ -19,17 +19,18 @@
         "twitter" : "https://twitter.com/sggts04",
         "referral" : ""
      },
-     {
+	
+	{
 
-        "name" : "Janit Lodha",
-        "imageurl" : "https://avatars3.githubusercontent.com/u/53757279?s=460&v=4",
-        "about" : "Exploring the great world!",
-        "college" : "IIIT Allahabad",
-        "facebook" : "https://www.facebook.com/janitlodha",
-        "github" : "https://github.com/JLodha",
-        "twitter" : "https://twitter.com/JanitLodha",
-        "referral" : ""
-     }
+       "name" : "Pratyush Pareek",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100004596615880",
+       "github" : "https://github.com/PratyushPareek",
+       "twitter" : "",
+       "referral" : "GeekHaven"
+    }	
 ]
 
 
