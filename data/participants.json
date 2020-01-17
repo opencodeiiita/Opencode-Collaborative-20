@@ -35,6 +35,7 @@
     },
 
 
+
   {
 
 	"name": "Swarnam",
@@ -122,6 +123,7 @@
      },
 
 	{
+
         "name" : "Ananya Agarwal",
         "imageurl" : "https://avatars3.githubusercontent.com/u/58395886?s=400&v=4",
         "about" : "Came here to learn",
@@ -134,6 +136,7 @@
 
 
 	{
+
         "name" : "Vishwas Singh",
         "imageurl" : "https://avatars1.githubusercontent.com/u/52378712?s=400&u=8b2d9efae99a3ee0f4d40075592a236fe34bcf61&v=4",
         "about" : "I can play piano",
@@ -170,7 +173,9 @@
 
 
 
+
 	{
+
 
 
         "name" : "Saksham Sood",
@@ -181,6 +186,7 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
+
 
 
      },
@@ -225,6 +231,7 @@
      	"referral" : "Pratyush Pareek"
      },
      {
+
 	
 	"name": "Piyush Gurjar",
 	"imageurl": "img/Piyush.jpg",
@@ -248,6 +255,7 @@
         "referral" : ""
      },
 
+
 	{
 
         "name" : "Rohini Mishra",
@@ -260,7 +268,7 @@
         "referral" : ""
      },
 
-
+ {
         "name" : "Rishika Agarwal",
         "imageurl" : "https://i.pinimg.com/originals/b4/b4/4d/b4b44d3367a51b5f4cc9d35a6307b594.png",
         "about" : "Just a beginner, but soon an expert",
@@ -270,6 +278,18 @@
         "twitter" : "",
         "referral" : "seniors"
      },
+
+     {
+        "name":"harsh mahajan",
+        "imageurl":"https://avatars3.githubusercontent.com/u/53365041?s=400&v=4",
+        "about":"",
+        "college":"IIIT Allahabad",
+        "facebook":"",
+        "github":"https://github.com/harsh-8989",
+        "twitter":"",
+        "referral":""
+     },
+
   {
 	       "name" : "Ananya Mohanty",
          "imageurl" : "",
@@ -283,6 +303,7 @@
 
 
     },
+
     {
 	"name": "Avneesh Kumar",
 	"imageurl": "contestant/avatar.jpg",
@@ -484,9 +505,10 @@
        "github" : "https://github.com/PratyushPareek",
        "twitter" : "",
        "referral" : "GeekHaven"
-  },
 
-{ 
+
+    }	,
+  { 
 "name":"Aniemsh Choudhury",
 "imageurl":"",
 "about":"Hello ",
