@@ -104,8 +104,18 @@
         "github" : "https://github.com/Yolo86",
         "twitter" : "",
         "referral" : "Seniors"
-     }
+     },
 
+     {
+        "name" : "Rishika Agarwal",
+        "imageurl" : "https://i.pinimg.com/originals/b4/b4/4d/b4b44d3367a51b5f4cc9d35a6307b594.png",
+        "about" : "Just a beginner, but soon an expert",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/rishika.agarwal.585",
+        "github" : "https://github.com/rishika8910",
+        "twitter" : "",
+        "referral" : "seniors"
+     }
 ]
 
 
