@@ -22,8 +22,23 @@
 
      },
     
-      {
+      
 
+      {
+        "name" : "Anirudh Simhachalam",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58392171?s=400&u=8cfeeb12a7d812b3c4dd133ea4193a21cdbea115&v=4",
+        "about" : "Hello, I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/anirudh2019",
+        "twitter" : "",
+        "referral" : "My seniors"
+       },
+
+
+
+	{
+        
   	"name": "Shubhang Singh",
   	"imageurl": "",
   	"about": "Hello I'm a web developer and an aspring competitive programmer",
