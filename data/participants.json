@@ -1,7 +1,57 @@
 
 
 
-[
+
+[{
+		"name": "Avneesh Kumar",
+		"imageurl": "contestant/avatar.jpg",
+		"about": "Hello I'm a developer",
+		"college": "IIITA",
+		"facebook": "https://www.facebook.com/avaneeshsahu000",
+		"github": "https://github.com/Cybertron-Avneesh",
+		"twitter": "",
+		"referral": "Seniors"
+	},
+	{
+		"name": "Shreyas Gupta",
+		"imageurl": "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
+		"about": "On my journey of Software Development",
+		"college": "IIIT Allahabad",
+		"facebook": "https://www.facebook.com/shreyashwr",
+		"github": "https://github.com/sggts04",
+		"twitter": "https://twitter.com/sggts04",
+		"referral": ""
+	},
+
+
+
+     {
+
+       "name" : "Aniemsh Choudhury",
+       "imageurl" : "",
+       "about" : "Hello ",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/animesh.choudhury.5477",
+       "github" : "https://github.com/animesh328",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
+
+
+
+  {
+
+	"name": "Swarnam",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Hello I'm a web developer",
+	"college": "IIIT Allahabad",
+	"facebook": " ",
+	"github": "https://github.com/Luna-Lovegood97",
+	"twitter": " ",
+	"referral": "College Mail"
+},
+
+
 	{
 		"name": "Sumit Kumar Sahu",
 		"imageurl": "https://avatars2.githubusercontent.com/u/58073775?s=400&u=b3d37d6180a35eb9a212c588c4e161d773900ec7&v=4",
@@ -43,6 +93,7 @@
         "twitter": "https://twitter.com/sggts04",
         "referral": ""
     },
+
     {
         "name": "Pradhuman Singh Baid",
         "imageurl": "https://avatars1.githubusercontent.com/u/54749108?s=460&v=4",
@@ -74,10 +125,24 @@
         "twitter" : "https://twitter.com/JanitLodha",
         "referral" : ""
 
-
-	
+     },
 
 	{
+
+        "name" : "Ananya Agarwal",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58395886?s=400&v=4",
+        "about" : "Came here to learn",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/profile.php?id=100038872145322",
+        "github" : "https://github.com/aawizard",
+        "twitter" : "",
+        "referral" : "Seniors"
+     },
+
+
+	{
+
+
         "name" : "Vishwas Singh",
         "imageurl" : "https://avatars1.githubusercontent.com/u/52378712?s=400&u=8b2d9efae99a3ee0f4d40075592a236fe34bcf61&v=4",
         "about" : "I can play piano",
@@ -87,6 +152,7 @@
         "twitter" : "https://twitter.com/urstrulystupid",
         "referral" : ""
      },
+
 
      {
 
@@ -99,6 +165,7 @@
         "twitter" : "https://twitter.com/Prasanthkota2",
         "referral" : "Seniors@IIIT-Allahabad"
      },
+ {
 
          "name" : "Pranav Singhal",
          "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
@@ -109,7 +176,16 @@
          "twitter" : "",
          "referral" : "Sumit Kumar Sahu"
       },
+
+
+
+
+
+
 	{
+
+
+
 
         "name" : "Saksham Sood",
         "imageurl" : "contestant/avatar.jpg",
@@ -124,7 +200,63 @@
 
 
      },
+
+{
+
+        "name" : "Sagar Barman",
+        "imageurl" : "https://avatars1.githubusercontent.com/u/60013084?s=460&v=4",
+        "about" : "Exploring the great world!",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/profile.php?id=100030749805996",
+        "github" : "https://github.com/NooBSagaR",
+        "twitter" : "",
+        "referral" : ""
+     },
+
+
+
+     
+
+     
      {
+        "name":"Ayush Tiwari",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/58394100?s=400&v=4",
+        "about":"i am first year btech student at iiit Allahabad.",
+        "college":"IIIT Allahabad",
+        "facebook":"https://www.facebook.com/profile.php?id=100006280720099",
+        "github" :"https://github.com/blaze-assault",
+        "twitter" :"",
+        "referral" :"seniors"
+
+
+     },
+
+
+     {
+     	"name" : "Aaryan Bhardwaj",
+     	"imageurl" : "https://avatars2.githubusercontent.com/u/57333555?s=400&u=e4e62175bcb9c6db5886e74e5699a789a43cc022&v=4",
+     	"about" : "I am a loquacious turtle.",
+     	"college" : "IIIT Allahabad",
+     	"facebook" : "",
+     	"github" : "https://github.com/uglyprincess",
+     	"twitter" : "",
+     	"referral" : "Pratyush Pareek"
+     },
+     {
+
+	"name": "Piyush Gurjar",
+	"imageurl": "img/Piyush.jpg",
+	"about": "Still a learner",
+	"college": "IIIT Allahabad",
+	"facebook": "https://www.facebook.com/piyush.gurjar.92505",
+	"github": "https://github.com/Piyush4064",
+	"website": "",
+	"twitter": "",
+	"referral": "Geek Heaven"
+     },
+  {
+
+
         "name" : "Abhijeet Sonkar",
         "imageurl" : "https://avatars1.githubusercontent.com/u/53171003?s=400&v=4",
         "about" : "Hello I'm a Software Developer",
@@ -149,7 +281,11 @@
         "referral" : ""
      },
 
-     {
+
+
+ {
+
+
         "name" : "Rishika Agarwal",
         "imageurl" : "https://i.pinimg.com/originals/b4/b4/4d/b4b44d3367a51b5f4cc9d35a6307b594.png",
         "about" : "Just a beginner, but soon an expert",
@@ -158,10 +294,36 @@
         "github" : "https://github.com/rishika8910",
         "twitter" : "",
         "referral" : "seniors"
-     }
-  
- 
-[
+
+     },
+
+     {
+        "name":"harsh mahajan",
+        "imageurl":"https://avatars3.githubusercontent.com/u/53365041?s=400&v=4",
+        "about":"",
+        "college":"IIIT Allahabad",
+        "facebook":"",
+        "github":"https://github.com/harsh-8989",
+        "twitter":"",
+        "referral":""
+     },
+
+  {
+	       "name" : "Ananya Mohanty",
+         "imageurl" : "",
+         "about" : "Just trying",
+         "college" : "IIIT-ALLAHABAD",
+         "facebook" : "",
+         "github" : "https://github.com/ananya-mohanty",
+         "twitter" : "",
+         "referral" : ""
+
+	
+
+
+    },
+
+
     {
 	"name": "Avneesh Kumar",
 	"imageurl": "contestant/avatar.jpg",
@@ -182,6 +344,211 @@
         "twitter" : "https://twitter.com/sggts04",
         "referral" : ""
      },
+    
+      
+
+      {
+        "name" : "Anirudh Simhachalam",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58392171?s=400&u=8cfeeb12a7d812b3c4dd133ea4193a21cdbea115&v=4",
+        "about" : "Hello, I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/anirudh2019",
+        "twitter" : "",
+        "referral" : "My seniors"
+       },
+
+
+
+	{
+        
+  	"name": "Shubhang Singh",
+  	"imageurl": "",
+  	"about": "Hello I'm a web developer and an aspring competitive programmer",
+  	"college": "IIIT Allahabad",
+  	"facebook": "",
+  	"github": "https://github.com/shuba400",
+  	"twitter": "",
+  	"referral": "Seniors"
+  },
+
+
+     {
+
+        "name" : "Mridul Mittal",
+        "imageurl" : "img/Mridul.jpg",
+        "about" : "Hello I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/mridul.mittal.90",
+        "github" : "https://github.com/Mridul20",
+        "twitter" : "https://twitter.com/MridulMittal20",
+        "referral" : "GeekHaven"
+     },
+  {
+
+
+        "name" : "Prasanth Kota",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/56782832?s=460&v=4",
+        "about" : "Trying to fit myself into this world ",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/prasanth.kota.900",
+        "github" : "https://github.com/Evadore",
+        "twitter" : "https://twitter.com/Prasanthkota2",
+        "referral" : "Seniors@IIIT-Allahabad"
+
+     },
+     {
+	"name": "Vishwas Singh",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "I play piano ;)",
+	"college": "IIIT-Allahabad",
+	"facebook": "https://www.facebook.com/urstrulyvishu",
+	"github": "https://github.com/infern018",
+	"twitter": "",
+	"referral": "Seniors"
+     },
+  
+	{
+
+
+         "name" : "Pranav Singhal",
+         "imageurl" : "https://avatars0.githubusercontent.com/u/51447798?s=400&u=7ed0b28ba1182df6d60def53274e3965b10dbf85&v=4",
+         "about" : "Hey Virtual World,i am here just connecting the dots :P",
+         "college" : "IIIT-ALLAHABAD",
+         "facebook" : "https://www.facebook.com/profile.php?id=100012986645515",
+         "github" : "https://github.com/singhalpranav22",
+         "twitter" : "",
+         "referral" : "Sumit Kumar Sahu"
+      },
+	{
+
+        "name" : "Saksham Sood",
+        "imageurl" : "contestant/avatar.jpg",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Yolo86",
+        "twitter" : "",
+        "referral" : "Seniors"
+
+     },
+	 {
+        "name" : "Sneha Gupta",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58395862?s=400&v=4",
+        "about" : "Let's begin something",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/sneha1010",
+        "twitter" : "",
+        "referral" : "seniors"
+     },
+
+
+     {
+	"name" : "Ashish Kanoujia",
+	"imageurl" : "",
+	"about" : "To explore the vitual world, I begin my journey",
+	"college" : "IIIT Allahabad",
+	"facebook" : "",
+	"github" : "https://github.com/Halfsoul24",
+	"twitter" : "",
+	"referral" : "Seniors"
+     
+
+     },
+
+
+	{
+
+        "name" : "Cheena",
+        "imageurl" : "",
+        "about" : "Trying to figure out the path to the world of open source",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/griffy06",
+        "twitter" : "",
+        "referral" : ""
+     },
+
+
+     {
+        "name" : "Priya Bhagat",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/60014860?s=460&v=4",
+        "about" : "just a try towards this",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/profile.php?id=100040375114023",
+        "github" : "https://github.com/tony-stark-rdj",
+        "twitter" : "",
+        "referral" : "seniors"
+     },
+
+	  {
+		  "name" : "Shyam Tayal",
+		  "imageurl" : "",
+		  "about" : "Enthusiastic about Tech sometimes mad for it",
+		  "college" : "IIIT Allahabad",
+		  "facebook" : "https://www.facebook.com/shyam.tayal.524",
+		  "github" : "https://github.com/Kr470s-eR0s",
+		  "twitter" : "",
+		  "linkedin" : "https://www.linkedin.com/in/shyam-tayal-72b086192/",
+		  "referral" : ""
+	  },
+    
+    
+
+	 {
+
+
+        "name" : "Garvit Chittora",
+        "imageurl" : "img/garvitchittora.jpg",
+        "about" : "My first task",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/garvit.chittora.90",
+        "github" : "https://github.com/garvitchittora",
+        "twitter" : "https://twitter.com/ChittoraGarvit",
+        "referral" : "Seniors"
+     },
+	 
+
+     {
+	    "name" : "Anirudh Arora",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/54004463?s=40&v=4",
+        "about" : "Apun ko kuchh naya seekhne ka hai",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/anirudh.arora.33",
+        "github" : "https://github.com/Xenomorphing19",
+        "twitter" : "",
+        "referral" : "seniors"
+     },
+
+	{
+
+       "name" : "Pratyush Pareek",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Oblivious to what's going on",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100004596615880",
+       "github" : "https://github.com/PratyushPareek",
+       "twitter" : "",
+       "referral" : "GeekHaven"
+
+    },	
+
+      {
+        "name" : "Varun Tiwari",
+        "imageurl" : "https://avatars2.githubusercontent.com/u/58032608?s=460&v=4",
+        "about" : "Making my way to the world of OpenSource",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/varun.t11",
+        "github" : "https://github.com/VarunT11",
+        "twitter" : "https://twitter.com/iamvarun11",
+        "referral" : "Seniors"
+     },
+
+
+        
+
+    
 	
 	{
 
@@ -193,10 +560,12 @@
        "github" : "https://github.com/PratyushPareek",
        "twitter" : "",
        "referral" : "GeekHaven"
-    }	
 
 
-{ 
+
+    }	,
+  { 
+
 "name":"Aniemsh Choudhury",
 "imageurl":"",
 "about":"Hello ",
@@ -396,32 +765,10 @@
 "github":"https://github.com/ananya-mohanty",
 "twitter":"",
 "referral":""
-}
+},
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  {
+ {
 	 "name": "Sahil Sharma",
 	 "imageurl" : "https://avatars0.githubusercontent.com/u/55686016?s=400&v=4",
 	"about" : "Eat Sleep Code ",
@@ -430,7 +777,47 @@
 	"github" : "https://github.com/Sahil-coder",
 	"twitter" : "",
 	"referral" :""
+},
 
-     }
+{
+
+       "name" : "Sarthak Maheshwari",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Trying to survive",
+       "college" : "iiit allahabad",
+       "facebook" : "",
+       "github" : "",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
+
+
+   {
+        "name" : "Chetan Garg",
+        "imageurl" : "https://avatars1.githubusercontent.com/u/56266286?s=400&u=602285e782b576c20e85ae131e1d54aff87f158b&v=4",
+        "about" : "Hello I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/chetangarg365",
+        "github" : "https://github.com/untrulynoxiusmj",
+        "twitter" : "",
+        "referral" : ""
+     },
+
+{
+		      "name": "Sanskar Patro",
+          "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
+          "about": "Trying to find my 'thing'",
+          "college": "IIIT Allahabad",
+          "facebook": "https://www.facebook.com/sanskar.patro",
+          "github": "https://github.com/sanskar-p",
+          "twitter": "url",
+          "referral": "Beloved seniors?"
+	}
+ 
+
+
+
 
 ]
+
+
