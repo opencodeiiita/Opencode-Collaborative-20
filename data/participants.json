@@ -105,6 +105,18 @@
      },
 
 	{
+        "name" : "Ananya Agarwal",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58395886?s=400&v=4",
+        "about" : "Came here to learn",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/profile.php?id=100038872145322",
+        "github" : "https://github.com/aawizard",
+        "twitter" : "",
+        "referral" : "Seniors"
+     },
+
+
+	{
         "name" : "Vishwas Singh",
         "imageurl" : "https://avatars1.githubusercontent.com/u/52378712?s=400&u=8b2d9efae99a3ee0f4d40075592a236fe34bcf61&v=4",
         "about" : "I can play piano",
@@ -114,6 +126,7 @@
         "twitter" : "https://twitter.com/urstrulystupid",
         "referral" : ""
      },
+
 
      {
 
