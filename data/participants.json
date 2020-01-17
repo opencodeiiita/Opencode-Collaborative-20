@@ -199,5 +199,16 @@
 "github":"https://github.com/ananya-mohanty",
 "twitter":"",
 "referral":""
-}
+},
+{
+
+       "name" : "Sarthak Maheshwari",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "Trying to survive",
+       "college" : "iiit allahabad",
+       "facebook" : "",
+       "github" : "",
+       "twitter" : "",
+       "referral" : "Nobody"
+    }
 ]
