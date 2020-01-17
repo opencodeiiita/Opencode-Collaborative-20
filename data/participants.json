@@ -18,7 +18,17 @@
         "github" : "https://github.com/sggts04",
         "twitter" : "https://twitter.com/sggts04",
         "referral" : ""
-     }
+     },
+   {
+	"name": "Kishan Tripathi",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Everything Coding",
+	"college": "IIITA",
+	"facebook": "https://www.facebook.com/GhostFoxSledgehammer",
+	"github": "https://github.com/GhostFoxSledgehammer",
+	"twitter": "https://twitter.com/stcdalex",
+	"referral": "Seniors"
+    }
 ]
 
 
