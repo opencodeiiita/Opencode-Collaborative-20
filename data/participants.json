@@ -279,8 +279,6 @@
          "github" : "https://github.com/ananya-mohanty",
          "twitter" : "",
          "referral" : ""
-
-    }
 	
 
 
@@ -486,10 +484,9 @@
        "facebook" : "https://www.facebook.com/profile.php?id=100004596615880",
        "github" : "https://github.com/PratyushPareek",
        "twitter" : "",
-       "referral" : "GeekHaven
- 
- },
- 
+
+       "referral" : "GeekHaven"
+  },
 { 
 "name":"Aniemsh Choudhury",
 "imageurl":"",
