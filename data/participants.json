@@ -221,7 +221,18 @@
         "github" : "https://github.com/rishika8910",
         "twitter" : "",
         "referral" : "seniors"
-     }
+     },
+  {
+	       "name" : "Ananya Mohanty",
+         "imageurl" : "",
+         "about" : "Just trying",
+         "college" : "IIIT-ALLAHABAD",
+         "facebook" : "",
+         "github" : "https://github.com/ananya-mohanty",
+         "twitter" : "",
+         "referral" : ""
+    }
+	
 ]
 
 
