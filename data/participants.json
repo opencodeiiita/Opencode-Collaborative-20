@@ -1,5 +1,15 @@
 [
-    
+    {
+
+       "name" : "Vidur Kataria",
+       "imageurl" : "vidur/avatar.jpg",
+       "about" : "Novice",
+       "college" : "Indian Institute of Information Technology, Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/kavi-12",
+       "twitter" : "",
+       "referral" : ""
+    }
     
     
 ]
