@@ -479,9 +479,9 @@
         "github" : "https://github.com/xxx32",
         "twitter" : "",
         "referral" : ""
-    }
+    },
     
-]
+
 
 
 	{
@@ -7043,17 +7043,7 @@
     "twitter" : ""
     "referral" : ""
 
-},
-{
-      "name" : "Harsh Ranjan",
-      "imageurl" :  "https://www.facebook.com/photo.php?fbid=1861598250802688&set=a.1380894388873079&type=3&theater",
-      "about" : "exploring Opencode",
-      "college" : "IIITA",
-      "facebook" : "https://www.facebook.com/profile.php?id=100008575932300&ref=bookmarks",
-      "github" : "https://github.com/harshranjan21",
-      "twitter" : "",
-},
-
+ },
 
    {
       "name":"Ambika Singh Kaushik",
