@@ -3485,6 +3485,17 @@
 	"faceboook" : "",
 	"github" : "https://github.com/snehal2841",
 	"twitter" : "url",
+
+}, {
+        "name": "Dheeraj Tharwani",
+        "imageurl": "",
+        "about": "Hi There!",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/dheeraj.tharwani.1",
+        "github": "https://github.com/dheeraj-code",
+        "twitter": "",
+        "referral": "seniors"
+
 },{
 	"name":"Ayush Baranwal",
 "imageurl":"",
@@ -3539,6 +3550,7 @@
        "github" : "https://github.com/smcri",
        "twitter" : "https://twitter.com/smcri",
        "referral" : "Geekhaven"
+
     },
 
  
