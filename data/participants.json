@@ -1420,6 +1420,18 @@
     },
 
 
+ {
+   "name" : "Vaishnav Trivedi",
+	"imageur1" :"",
+	"about" : "May The Force Be With You",
+	"college" : "Indian Institute of Information Technology, Allahabad",
+	"facebook" : "",
+	"github" : "https://github.com/Vanhsiav-afk",
+	"quora" : "https://www.quora.com/profile/Vaishnav-Trivedi",
+	"referral" : "seniors"
+},
+
+
        "name" : "Aditya Aggarwal",
        "imageurl" : "",
        "about" : "Trying to code",
