@@ -1033,7 +1033,17 @@
 	"twitter" : "url",
 },
 
- 
+ {
+
+       "name" : "Aditya Aggarwal",
+       "imageurl" : "",
+       "about" : "Trying to code",
+       "college" : "IIITA-Allahabad",
+       "facebook" : "https://www.facebook.com/photo.php?fbid=158003802206435&set=a.148857116454437&type=3&source=11&referrer_profile_id=100039904490033",
+       "github" : "https://avatars1.githubusercontent.com/u/58394891?s=400&v=4",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
 
 
 
