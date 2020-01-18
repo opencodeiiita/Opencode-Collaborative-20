@@ -7346,6 +7346,7 @@
 "twitter":"",
 "referral":"Mail"
 },
+
 {
           "name": "Sanskar Patro",
       "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
@@ -7355,6 +7356,26 @@
       "github": "https://github.com/sanskar-p",
       "twitter": "url",
       "referral": "Beloved seniors?"
+
+ {
+		      "name": "Sanskar Patro",
+          "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
+          "about": "Trying to find my 'thing'",
+          "college": "IIIT Allahabad",
+          "facebook": "https://www.facebook.com/sanskar.patro",
+          "github": "https://github.com/sanskar-p",
+          "twitter": "url",
+          "referral": "Beloved seniors?"
+   },
+   {
+      "name":"Mayank Saini",
+      "imageurl":"https://avatars0.githubusercontent.com/u/59998957?s=400&v=4",
+      "about":"Just trying",
+      "college":"IIIT-ALLAHABAD",
+      "facebook":"",
+      "github":"https://github.com/may-ank0813",
+      "twitter":"",
+      "referral":"Mail"
 
 
 
@@ -7409,6 +7430,7 @@
 "twitter":"",
 "referral":"friends"
 
+
 },
 {
 "name" : "Shreesh Swaraj",
@@ -7433,6 +7455,9 @@
 "twitter" : "url",
 },
 
+}
+
+
 {        "name":"Deepak gupta",
      "imageurl" :"",
      "about" : "coder",
@@ -7441,6 +7466,20 @@
      "github" : "https://github.com/deepakgupta124",
      "twitter" :""
 },
+
+	{
+	"name" : "Kaustubh Gangwar",
+       "imageurl" : "https://avatars3.githubusercontent.com/u/55841732?s=460&v=4",
+       "about" : "Focusing",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/kaustubhgangwar",
+       "twitter" : "https://twitter.com/kaustubhgangwar",
+       "referral" : "Friends"
+	
+	
+	}
+,
 
 {
 "name" : "Aarushi",
