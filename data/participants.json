@@ -468,6 +468,20 @@
 		"referral": "Seniors"
 	},
 
+     },
+    {
+        
+        "name" : "Aarushi",
+        "imageurl" : "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
+        "about" : "still learning",
+        "college" : "Indian Institute of Information Technology Allahabad" ,
+        "facebook" : "https://www.facebook.com/aarushi.kumari.739978",
+        "github" : "https://github.com/xxx32",
+        "twitter" : "",
+        "referral" : ""
+    }
+    
+]
 
 
 	{
