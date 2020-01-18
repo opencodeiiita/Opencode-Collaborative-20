@@ -6818,21 +6818,6 @@
 },
 
 {
-       "name" : "Tejas Agrawal",
-       "imageurl" : "https://avatars1.githubusercontent.com/u/58390399?s=460&v=4",
-       "about" : "A Geek who loves to play with hackable things...",
-       "college" : "IIITA",
-
-
-       "facebook" : "",
-       "github" : "https://github.com/smcri",
-       "twitter" : "https://twitter.com/smcri",
-       "referral" : "Geekhaven"
-    },
- 
-
-
-{
 	"name" : "Priyansha gupta",
 	"imageurl" : "",
 	"about" : "learner",
@@ -6849,9 +6834,11 @@
 	"github" : "https://github.com/aquris",
 	"twitter" : "",
 },
-
-
-
+{
+      "name" : "Tejas Agrawal",
+       "imageurl" : "https://avatars1.githubusercontent.com/u/58390399?s=460&v=4",
+       "about" : "A Geek who loves to play with hackable things...",
+       "college" : "IIITA",
        "facebook" : "https://www.facebook.com/profile.php?id=100012074028379&ref=bookmarks",
        "github" : "https://github.com/cyber-venom003",
        "twitter" : "",
@@ -6866,7 +6853,21 @@
       "facebook":"",
       "github":"https://github.com/Asinghkaushik",
       "twitter":""
-   }
+   },
+
+{
+	"name" : "Jyotsana Srivastava",
+	"imageurl" : "https://avatars1.githubusercontent.com/u/58893304?s=460&v=4",
+	"about" : "Pro at wasting time.. Won't do it this month. Or let's just say that I'll try!",
+	"college" : "IIIT Allahabad",
+	"faceboook" : "https://www.facebook.com/jyotsana.srivastava.39",
+	"instagram" : "https://www.instagram.com/__jyotsanaaa__/",
+	"github" : "https://github.com/zevnil",
+	"twitter" : "https://twitter.com/JyotsanaSriva17",
+	"referral" : "Seniors"
 }
+]
+
+
 
 
