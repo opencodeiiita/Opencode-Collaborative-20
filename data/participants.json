@@ -731,7 +731,10 @@
          "twitter" : "",
          "referral" : "Sumit Kumar Sahu"
       },
+
+
 	{
+
 
         "name" : "Saksham Sood",
         "imageurl" : "contestant/avatar.jpg",
@@ -742,8 +745,21 @@
         "twitter" : "",
         "referral" : "Seniors"
 
+      },
+	{
+	
+         "name" : "Ayan Dhiman",
+        "imageurl" : "https://github.com/ayandhiman",
+        "about" : "Hello I'm a learner",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/ayandhiman?tab=repositories",
+        "twitter" : "",
+        "referral" : ""
+	
+	},
 
-     },
+  
 	 {
         "name" : "Sneha Gupta",
         "imageurl" : "https://avatars3.githubusercontent.com/u/58395862?s=400&v=4",
