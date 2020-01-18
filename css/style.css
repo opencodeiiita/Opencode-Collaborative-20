@@ -497,3 +497,64 @@ h6 {
   transition: .5s;
 }
 
+#projects {
+  color: #413e66;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin-left: 380px;
+}
+
+.proj_name{
+  color: #413e66;
+  font-family: "Montserrat", sans-serif;
+  font-size: 32.5px;
+  font-weight: 400;
+  margin: 30px; 
+}
+
+.proj{
+  color: #413e66;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 450;
+  margin: 30px;
+}
+
+.links{
+  background-color: #413e66;
+    border-radius: 8px;
+    border: none;
+    color: white;
+  padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 25px;
+
+}
+.links span{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.25s;
+}
+
+.links span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.25s;
+}
+
+.links:hover span {
+  padding-right: 20px;
+}
+
+.links:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
