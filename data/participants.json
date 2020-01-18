@@ -339,7 +339,33 @@
 
 
 
+
+    {
+	"name": "Avneesh Kumar",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Hello I'm a developer",
+	"college": "IIITA",
+	"facebook": "https://www.facebook.com/avaneeshsahu000",
+	"github": "https://github.com/Cybertron-Avneesh",
+	"twitter": "",
+	"referral": "Seniors"
+    },
+     {
+        "name" : "Shreyas Gupta",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
+        "about" : "On my journey of Software Development",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/shreyashwr",
+        "github" : "https://github.com/sggts04",
+        "twitter" : "https://twitter.com/sggts04",
+        "referral" : ""
+
+     },
+               
+
+ 
 {
+
 
 
     "name": "Rishika Agarwal",
@@ -926,6 +952,7 @@
     "referral": "seniors"
 },
 {
+
     "name": "Ananya Mohanty",
     "imageurl": "",
     "about": "Just trying",
@@ -3381,6 +3408,8 @@
 "github":"https://github.com/infern018",
 "twitter":"https://twitter.com/urstrulystupid",
 "referral":""
+"twitter":"",
+"referral":"Seniors"
 },
 {
 "name":"Prasanth Kota",
@@ -7469,6 +7498,18 @@
 },
 
 }
+
+ {
+ "name" : "Naina Kumari",
+ "imageurl":"",
+ "about" :"",
+ "college": "IIIT ALLAHABAD",
+ "facebook":"",
+ "github" : "https://github.com/iit2019004",
+ "twitter":"",
+ "referral":""
+ },
+
 
 
 {        "name":"Deepak gupta",
