@@ -18,6 +18,15 @@
       "github":"https://github.com/aj0311",
       "twitter":"",
       "referral":"seniors"
+    {
+      "name":"Himanshu Vishwakarma",
+      "imageurl":"https://avatars2.githubusercontent.com/u/54054289?s=400&v=4",
+      "about":"Hello, I am a learner !!",
+      "college":"IIIT Allahabad",
+      "facebook":"https://www.facebook.com/himanshu.vishwakarma.7524879",
+      "github":"https://github.com/stygian-96",
+      "twitter":"https://twitter.com/Himansh84968338",
+      "referral":"Seniors"
    },
    {
       "name":"Karan Kunwar",
@@ -3231,5 +3240,15 @@
        "github" : "https://github.com/Pratyush-Gupta",
        "twitter" : "",
        "referral" : ""
+   }
+   {
+       "name" : "Tejas Agrawal",
+       "imageurl" : "https://avatars1.githubusercontent.com/u/58390399?s=460&v=4",
+       "about" : "A Geek who loves to play with hackable things...",
+       "college" : "IIITA",
+       "facebook" : "https://www.facebook.com/profile.php?id=100012074028379&ref=bookmarks",
+       "github" : "https://github.com/cyber-venom003",
+       "twitter" : "",
+       "referral" : ""    
    }
 ]
