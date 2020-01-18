@@ -90,6 +90,61 @@
 		"twitter": "https://twitter.com/SumitSahu654",
 		"referral": "Pranav Singhal"
 	},
+
+  {
+    "name" : "Tamoghno Bhattacharya",
+    "imageurl" : "https://avatars1.githubusercontent.com/u/58668088?s=460&v=4",
+    "about" : "Hello I'm a first year student IIITA currently into competitive coding and AI",
+    "college" : "IIIT Allahabad",
+    "facebook" : "",
+    "github" : "github.com/TamoghnoBhattacharya",
+    "twitter" : "",
+    "referral" : "Seniors at college and 30 DoC"
+
+    },
+    {
+
+        "name": "Avneesh Kumar",
+        "imageurl": "contestant/avatar.jpg",
+        "about": "Hello I'm a developer",
+        "college": "IIITA",
+        "facebook": "https://www.facebook.com/avaneeshsahu000",
+        "github": "https://github.com/Cybertron-Avneesh",
+        "twitter": "",
+        "referral": "Seniors"
+    },
+    {
+        "name": "Shreyas Gupta",
+        "imageurl": "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
+        "about": "On my journey of Software Development",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/shreyashwr",
+        "github": "https://github.com/sggts04",
+        "twitter": "https://twitter.com/sggts04",
+        "referral": ""
+    },
+
+    {
+        "name": "Pradhuman Singh Baid",
+        "imageurl": "https://avatars1.githubusercontent.com/u/54749108?s=460&v=4",
+        "about": "Simply a Developer",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/pradhuman.baid",
+        "github": "https://github.com/pradhuman1",
+        "twitter": "",
+        "referral": ""
+    },
+  {
+    "name" : "Pranav Sai",
+    "imageurl" : "chttps://imgur.com/5GhGjTk",
+    "about" : "I love to code",
+    "college" : "IIIT Allahabad",
+    "facebook" : "https://www.facebook.com/pranav.sai.520125",
+    "github" : "https://github.com/theblackswann",
+    "twitter" : "",
+    "referral" : "My seniors"
+  },
+
 	{
 		"name": "Tamoghno Bhattacharya",
 		"imageurl": "https://avatars1.githubusercontent.com/u/58668088?s=460&v=4",
@@ -121,6 +176,7 @@
 		"twitter": "https://twitter.com/sggts04",
 		"referral": ""
 	},
+
 
 	{
 		"name": "Pradhuman Singh Baid",
@@ -383,6 +439,29 @@
 		"referral": ""
   },
 
+
+    {
+	"name": "Avneesh Kumar",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Everything Coding",
+	"college": "IIITA",
+	"facebook": "https://www.facebook.com/GhostFoxSledgehammer",
+	"github": "https://github.com/GhostFoxSledgehammer",
+	"twitter": "https://twitter.com/stcdalex",
+	"referral": "Seniors"
+    },
+
+     {
+        "name" : "Shreyas Gupta",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
+        "about" : "On my journey of Software Development",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/shreyashwr",
+        "github" : "https://github.com/sggts04",
+        "twitter" : "https://twitter.com/sggts04",
+        "referral" : ""
+     },
+
    
 	     {
 	"name": "Sandeep Kumar",
@@ -394,6 +473,7 @@
 	"twitter": "",
 	"referral": "Seniors"
     },
+
 
 
 	{
@@ -2306,6 +2386,37 @@
 		"github": "https://github.com/blaze-assault",
 		"twitter": "",
 		"referral": "seniors"
+
+  },
+        "name" : "Saksham Sood",
+        "imageurl" : "contestant/avatar.jpg",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Yolo86",
+        "twitter" : "",
+        "referral" : "Seniors"
+     },
+	 {
+        "name" : "Sneha Gupta",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58395862?s=400&v=4",
+        "about" : "Let's begin something",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/sneha1010",
+        "twitter" : "",
+        "referral" : "seniors"
+     },
+
+     {
+	"name" : "Ashish Kanoujia",
+	"imageurl" : "",
+	"about" : "To explore the vitual world, I begin my journey",
+	"college" : "IIIT Allahabad",
+	"facebook" : "",
+	"github" : "https://github.com/Halfsoul24",
+	"twitter" : "",
+	"referral" : "Seniors"
 
 
 	},
@@ -3460,8 +3571,6 @@
         
 
 
-
-
   
   {
 	"name" : "Alka Trivedi",
@@ -3533,6 +3642,18 @@
 	"github" : "https://github.com/sampadakathar",
 	"twitter" : "",
 },
+
+{
+	"name": "Kishan Tripathi",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Everything Coding",
+	"college": "IIITA",
+	"facebook": "https://www.facebook.com/GhostFoxSledgehammer",
+	"github": "https://github.com/GhostFoxSledgehammer",
+	"twitter": "https://twitter.com/stcdalex",
+	"referral": "Seniors"
+    },
+
 
 
 
