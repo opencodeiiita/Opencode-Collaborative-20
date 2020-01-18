@@ -953,7 +953,7 @@
           "github": "https://github.com/sanskar-p",
           "twitter": "url",
           "referral": "Beloved seniors?"
-	}
+	},
 
 
 
@@ -1010,6 +1010,21 @@
 "referral":"friends"
 
 },
+
+{
+"name":"Vasu Gupta",
+"imageurl":"",
+"about":"Hello I�m a developer",
+"college":"IIIT-ALLAHABAD",
+"facebook":"",
+"github":"https://github.com/Cipher-vasu",
+"twitter":"",
+"referral":""
+
+ 
+
+
+},
 	{
 	"name" : "Shreesh Swaraj",
 	"imageur1" : "https://avatars2.githubusercontent.com/u/6941016?s=400&u=6d9c811dbbcc9a4353ccd75ab1b36388edb687f3&v=4",
@@ -1056,6 +1071,7 @@
 	"github" : "https://github.com/hermoine20002",
 	"twitter" : "",
 	"referral" : "elon musk"
+  },
         
   {
 
