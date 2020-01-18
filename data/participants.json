@@ -316,6 +316,19 @@
         "referral" : "seniors"
 
      },
+{
+		"name": "Anmol Bansal",
+		"imageurl": "https://https://drive.google.com/drive/u/0/my-drive",
+		"about": "Believe me, you can trust me!",
+		"college": "IIIT Allahabad",
+		"facebook": "https://www.https://www.facebook.com/anmol.bansal.33886",
+		"github": "https://github.com/ABans1",
+		"twitter": "https://twitter.com/AnmolBa99689656",
+		"referral": "Seniors"
+	},
+
+
+     },
      {
         "name" : "Snehalreet Kaur",
         "imageurl" : "https://images.assetsdelivery.com/compings_v2/djvstock/djvstock1803/djvstock180311547.jpg",
@@ -391,6 +404,18 @@
      },
 
 
+     {
+       "name" : "Slok Aks",
+       "imageurl" : "https://avatars3.githubusercontent.com/u/22662104?s=460&v=4",
+       "about" : "Here to learn new stuffs!!!",
+       "college" : "Indian Institute of Information Technology, Allahabad",
+       "facebook" : "https://www.facebook.com/slok.aks",
+       "github" : "https://github.com/SlokAks",
+       "twitter" : "",
+       "referral" : "N/A"
+     },
+
+
 
       {
         "name" : "Anirudh Simhachalam",
@@ -417,6 +442,7 @@
   	"twitter": "",
   	"referral": "Seniors"
   },
+
 
 
      {
@@ -927,6 +953,10 @@
           "github": "https://github.com/sanskar-p",
           "twitter": "url",
           "referral": "Beloved seniors?"
+	},
+
+
+
 
 	},
        {
@@ -978,21 +1008,95 @@
 "github":"https://github.com/ankit4284",
 "twitter":"",
 "referral":"friends"
-}
+
+},
 
 {
 "name":"Vasu Gupta",
 "imageurl":"",
-"about":"Hello I’m a developer",
+"about":"Hello Iï¿½m a developer",
 "college":"IIIT-ALLAHABAD",
 "facebook":"",
 "github":"https://github.com/Cipher-vasu",
 "twitter":"",
 "referral":""
-}
+
  
 
 
+},
+	{
+	"name" : "Shreesh Swaraj",
+	"imageur1" : "https://avatars2.githubusercontent.com/u/6941016?s=400&u=6d9c811dbbcc9a4353ccd75ab1b36388edb687f3&v=4",
+	"about" : "Exploring to find something new",
+	"college" : "Indian Institute of Information Technology, Allahabad",
+	"facebook" : "https://www.facebook.com/shreesh.swaraj",
+	"github" : "https://github.com/Shreesh19",
+	"twitter" : "https://twitter.com/ShreeshSwaraj",
+	"referral" : ""
+        
+
+},
+
+  
+  {
+	"name" : "Alka Trivedi",
+	"imageurl" : "",
+	"about" : "just a beginner",
+	"faceboook" : "",
+	"github" : "https://github.com/Alka-git12",
+	"twitter" : "url",
+},
+
+	
+	
+{
+        "name": "Dega Manvith Yadav",
+        "imageurl": "",
+        "about": "just beginning",
+        "college": "IIIT Allahabad",
+        "facebook": "",
+        "github": "https://github.com/iib2019014",
+        "twitter": "",
+        "referral": ""
+	
+	},	 
+
+{
+	"name" : "Payili Vangmayi",
+	"imageur1" : "https://avatars1.githubusercontent.com/u/58723092?s=400&u=fd7b1b0f0ce145f742cca3937c8c84d85b3c93a2&v=4",
+	"about" : "wingardium leviosa",
+	"college" : "Indian Institute of Information Technology, Allahabad",
+	"facebook" : "",
+	"github" : "https://github.com/hermoine20002",
+	"twitter" : "",
+	"referral" : "elon musk"
+  },
+        
+  {
+
+
+       "name" : "Aditya Aggarwal",
+       "imageurl" : "",
+       "about" : "Trying to code",
+       "college" : "IIITA-Allahabad",
+       "facebook" : "https://www.facebook.com/photo.php?fbid=158003802206435&set=a.148857116454437&type=3&source=11&referrer_profile_id=100039904490033",
+       "github" : "https://avatars1.githubusercontent.com/u/58394891?s=400&v=4",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
+
+
+ 
+
+{
+	"name" : "Priyansha gupta",
+	"imageurl" : "",
+	"about" : "learner",
+	"faceboook" : "",
+	"github" : "https://github.com/partofheartpri10",
+	"twitter" : "url",
+}
 
 
 ]
