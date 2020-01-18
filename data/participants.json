@@ -1,4 +1,4 @@
-
+﻿
 [{
 		"name": "Karan Kunwar",
 		"imageurl": "https://avatars3.githubusercontent.com/u/54117043?s=400&u=3074376ea0434711036f80e742a369b7ee72005c&v=4",
@@ -3550,6 +3550,15 @@
 	"about" : "learner",
 	"faceboook" : "",
 	"github" : "https://github.com/partofheartpri10",
+	"twitter" : "url",
+},
+
+{
+	"name" : "Souvik Patra",
+	"imageurl" : "",
+	"about" : "looking forward to coding ",
+	"faceboook" : "",
+	"github" : "https://github.com/binaryamateur",
 	"twitter" : "url",
 }
 
