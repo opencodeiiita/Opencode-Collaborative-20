@@ -6691,6 +6691,16 @@
       "twitter":""
    },
    {
+
+      "name":"Ansh Verma",
+      "imageurl":"",
+      "about":"learning",
+      "college":"IIITA",
+      "facebook":"",
+      "github":"https://github.com/ansh-1618",
+      "twitter":""
+   },
+{
        "name" : "Pratyush Gupta",
 
        "imageurl" : "contestant/avatar.jpg",
@@ -6866,6 +6876,7 @@
 	"twitter" : "https://twitter.com/JyotsanaSriva17",
 	"referral" : "Seniors"
 }
+
 ]
 
 
