@@ -3211,5 +3211,15 @@
       "facebook":"",
       "github":"https://github.com/deepakgupta124",
       "twitter":""
+   },
+   {
+       "name" : "Pratyush Gupta",
+       "imageurl" : "contestant/avatar.jpg",
+       "about" : "JustExploring",
+       "college" : "IIITA",
+       "facebook" : "https://www.facebook.com/pratyush.gupta.128",
+       "github" : "https://github.com/Pratyush-Gupta",
+       "twitter" : "",
+       "referral" : ""
    }
 ]
