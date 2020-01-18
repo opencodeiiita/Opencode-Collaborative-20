@@ -1399,6 +1399,27 @@
 
 
 
+  
+  {
+	"name" : "Alka Trivedi",
+	"imageurl" : "",
+	"about" : "just a beginner",
+	"faceboook" : "",
+	"github" : "https://github.com/Alka-git12",
+	"twitter" : "url",
+},
+{
+        "name": "Gauri Kesarwani",
+        "imageurl": "https://avatars3.githubusercontent.com/u/58395889?s=400&v=4",
+        "about": "Never too late to begin",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/gauri.kesarwani",
+        "github": "https://github.com/Gaurik936",
+        "twitter": "",
+        "referral": ""
+    },
+
+
        "name" : "Aditya Aggarwal",
        "imageurl" : "",
        "about" : "Trying to code",
