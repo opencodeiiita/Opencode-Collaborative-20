@@ -1032,7 +1032,17 @@
 	"github" : "https://github.com/Alka-git12",
 	"twitter" : "url",
 },
+{
 
+       "name" : "Aadharsh Roshan",
+       "imageurl" : "https://avatars3.githubusercontent.com/u/16453560?s=400&u=000166becb7cad8f4e4625fffdb6b8fcb90e0fb8&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIITA",
+       "facebook" : "",
+       "github" : "https://github.com/smcri",
+       "twitter" : "https://twitter.com/smcri",
+       "referral" : "Geekhaven"
+    }
  
 
 
