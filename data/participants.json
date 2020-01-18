@@ -554,6 +554,30 @@
     "referral" : ""
 },
 
+	
+	{
+        "name" : "Muskan Deep Kaur Maini",
+        "imageurl" : "https://avatars3.githubusercontent.com/u/58771504?s=400&u=466b3f50f9f4e39fe570d338bce80cdaac2a54b6&v=4",
+        "about" : "Hey, I am a learner",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/muskandeep.kaur.520",
+        "github" : "https://github.com/mendelevium28",
+        "twitter" : "",
+        "referral" : ""
+
+     },
+     {
+         "name" : "Divyatez Singh ",
+         "imageurl" : "https://avatars0.githubusercontent.com/u/54915730?s=460&v=4",
+         "about" : "Exploring",
+         "college" : "IIITA",
+         "facebook" : "",
+         "github" : "https://github.com/d3ad5h01",
+         "twitter" : "",
+         "referral" : "Seniors "
+     
+
+	},
 
 
 
@@ -7571,7 +7595,3 @@
 }
 
 ]
-
-
-
-
