@@ -1,4 +1,4 @@
-[     
+﻿[     
   	{
         "name": "Kumar Anip",
         "imageurl": "",
@@ -3599,7 +3599,17 @@
 	"faceboook" : "",
 	"github" : "https://github.com/binaryamateur",
 	"twitter" : "url",
+},
+
+{
+	"name" : "Akshat Agrawal",
+	"imageurl" : "",
+	"about" : "looking forward to coding ",
+	"faceboook" : "",
+	"github" : "https://github.com/akshatagrawal22",
+	"twitter" : "url",
 }
+
 
 
 ]
