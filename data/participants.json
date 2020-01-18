@@ -980,16 +980,18 @@
 "referral":"friends"
 }
 
-{ 
+{
 "name":"Vasu Gupta",
-"imageurl":"https://avatars2.githubusercontent.com/u/58389784?s=400&v=4",
-"about":"hello I’m a developer",
+"imageurl":"",
+"about":"Hello I’m a developer",
 "college":"IIIT-ALLAHABAD",
 "facebook":"",
 "github":"https://github.com/Cipher-vasu",
 "twitter":"",
 "referral":""
-},
+}
+ 
+
 
 
 
