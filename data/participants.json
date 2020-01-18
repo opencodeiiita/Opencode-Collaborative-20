@@ -1,4 +1,5 @@
 
+
 [{
  "name" : "Ravi Agrawal",
   "imageurl" : "myprofilepic.jpeg",
@@ -10,7 +11,8 @@
   "referral" : "My College Seniors"}
   
   ,
-  {
+ {
+
       "name":"Yash Mishra",
       "imageurl":"https://avatars2.githubusercontent.com/u/53789050?s=460&v=4",
       "about":"Dreamer",
@@ -27,6 +29,16 @@
       "college":"IIIT Allahabad",
       "facebook":"https://www.facebook.com/anip.kumar.330",
       "github":"",
+      "twitter":"",
+      "referral":""
+   },
+   {
+      "name":"Sonal",
+      "imageurl":"https://avatars2.githubusercontent.com/u/58393923?s=460&v=4",
+      "about":"",
+      "college":"IIIT Allahabad",
+      "facebook":"https://www.facebook.com/sonal.null.5?ref=bookmarks",
+      "github":"https://github.com/iit2019122",
       "twitter":"",
       "referral":""
    },
