@@ -6852,8 +6852,155 @@
        "facebook" : "https://www.facebook.com/profile.php?id=100012074028379&ref=bookmarks",
        "github" : "https://github.com/cyber-venom003",
        "twitter" : "",
-       "referral" : ""    
-   },
+
+       "referral" : "Nobody"
+    },
+
+
+   {
+        "name" : "Chetan Garg",
+        "imageurl" : "https://avatars1.githubusercontent.com/u/56266286?s=400&u=602285e782b576c20e85ae131e1d54aff87f158b&v=4",
+        "about" : "Hello I'm a developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/chetangarg365",
+        "github" : "https://github.com/untrulynoxiusmj",
+        "twitter" : "",
+        "referral" : ""
+     },
+
+{
+"name":"Jyotika Bhatti",
+"imageurl":"https://i.pinimg.com/originals/0e/78/a7/0e78a750062104e71d68ae1ce9946178.jpg",
+"about":"On the path of learning New Tech Stuffs",
+"college":"IIIT Allahabad",
+"facebook":"https://www.facebook.com/jyotika.bhatti.3",
+"github":"https://github.com/Jyotika999",
+"twitter":"",
+"referral":"Our Tech Seniors"
+      },
+
+
+     {
+	"name" : "Vishal Burman",
+	"imageurl" : "contestant/avatar.jpg",
+	"about" : "Hello I'm a developer",
+	"college" : "IIITA",
+	"facebook" : "https://www.facebook.com/vishalbrman",
+	"github" : "https://github.com/black-cat01",
+	"twitter" : "",
+	"referral" : ""
+      },
+
+
+
+{
+"name":"Varun Bhardwaj",
+"imageurl":"",
+"about":"Just trying",
+"college":"IIIT-ALLAHABAD",
+"facebook":"",
+"github":"https://github.com/starboi02",
+"twitter":"",
+"referral":"Mail"
+},
+ {
+		      "name": "Sanskar Patro",
+          "imageurl": "https://avatars3.githubusercontent.com/u/54014518?s=400&u=aefdd45b440b2c73445c0f197b57477f7cb87037&v=4",
+          "about": "Trying to find my 'thing'",
+          "college": "IIIT Allahabad",
+          "facebook": "https://www.facebook.com/sanskar.patro",
+          "github": "https://github.com/sanskar-p",
+          "twitter": "url",
+          "referral": "Beloved seniors?"
+	}
+
+
+
+
+	},
+       {
+          "name": "Pavika Chaudhary",
+          "imageurl": "",
+          "about": "Carpediam",
+          "college": "IIIT Allahabad",
+          "facebook": "",
+          "github": "https://github.com/pavikachaudhary",
+          "twitter": "url",
+          "referral": ""
+	
+
+	},
+	{
+        "name": "Harshit Sinha",
+        "imageurl": "https://avatars1.githubusercontent.com/u/53996897?s=400&u=97e175a3dd9317cadaf7344108ece1c034d43cdc&v=4",
+        "about": "I'm a 1st year student learning competitive coding and web develpoment",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/harshit.sinha.167189",
+        "github": "https://github.com/harsh-797",
+        "twitter": "",
+        "referral": "Seniors"
+	
+
+	},
+
+	{
+	"name":"Arpit Agarwal",
+	"imageurl":"",
+	"about":"Just Learning",
+	"college":"IIIT ALLAHABAD",
+	"facebook":"https://www.facebook.com/aarpit01",
+	"github":"https://github.com/aarpit1010",
+	"twitter":"",
+	"referral":"E-Mail"
+	},
+
+
+
+
+
+{
+"name":"Ankit Gupta",
+"imageurl":"",
+"about":"Just trying",
+"college":"IIIT-ALLAHABAD",
+"facebook":"",
+"github":"https://github.com/ankit4284",
+"twitter":"",
+"referral":"friends"
+
+},
+	{
+	"name" : "Shreesh Swaraj",
+	"imageur1" : "https://avatars2.githubusercontent.com/u/6941016?s=400&u=6d9c811dbbcc9a4353ccd75ab1b36388edb687f3&v=4",
+	"about" : "Exploring to find something new",
+	"college" : "Indian Institute of Information Technology, Allahabad",
+	"facebook" : "https://www.facebook.com/shreesh.swaraj",
+	"github" : "https://github.com/Shreesh19",
+	"twitter" : "https://twitter.com/ShreeshSwaraj",
+	"referral" : ""
+        
+
+},
+
+  
+  {
+	"name" : "Alka Trivedi",
+	"imageurl" : "",
+	"about" : "just a beginner",
+	"faceboook" : "",
+	"github" : "https://github.com/Alka-git12",
+	"twitter" : "url",
+},
+{
+    "name" : "Aarushi",
+    "imageurl" : "",
+    "about" : "still learning ",
+    "facebook" : ""
+    "github" : "https://github.com/xxx32"
+    "twitter" : ""
+    "referral" : ""
+
+ },
 
    {
       "name":"Ambika Singh Kaushik",
@@ -6863,6 +7010,7 @@
       "facebook":"",
       "github":"https://github.com/Asinghkaushik",
       "twitter":""
+  "referral" : ""    
    },
 
 {
