@@ -24,6 +24,7 @@
 
 {
 
+
     "name": "Karan Kunwar",
     "imageurl": "https://avatars3.githubusercontent.com/u/54117043?s=400&u=3074376ea0434711036f80e742a369b7ee72005c&v=4",
     "about": "Hi There!",
@@ -54,6 +55,18 @@
     "twitter": "https://twitter.com/sggts04",
     "referral": ""
 },
+
+	{
+		"name": "Raunak Rathour",
+		"imageurl": "https://raunakrathour.github.io/myphoto.jpg",
+		"about": "Pata krlo",
+		"college": "IIIT Allahabad",
+		"facebook": "",
+		"github": "https://github.com/raunakrathour",
+		"twitter": "",
+		"referral": ""
+	},
+
 
 
 
