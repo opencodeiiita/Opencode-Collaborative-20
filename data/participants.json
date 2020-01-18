@@ -566,6 +566,21 @@
         "twitter" : "",
         "referral" : "seniors"
 
+     }
+     
+     {
+        "name" : "Medha Balani",
+        "imageurl" : "https://avatars2.githubusercontent.com/u/58399279?s=400&u=a861c1bdfdb394eff5bc8635601863c723f713a8&v=4",
+        "about" : "Genius by birth,evil by choice",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/medha.balani.7",
+        "github" : "https://github.com/medhabalani",
+        "twitter" : "",
+        "referral" : "iiita seniors",
+     },
+]
+
+
      },
 {
 		"name": "Anmol Bansal",
@@ -12621,6 +12636,7 @@
 }
 
 ]
+
 
 
 
