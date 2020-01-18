@@ -1395,7 +1395,7 @@
 	"referral" : "elon musk"
   },
         
-  {
+
 
 
 
@@ -1420,6 +1420,17 @@
     },
 
 
+  {
+	"name" : "Snehal Suryavanshi",
+	"imageurl" : "",
+	"about" : "eager to learn...",
+	"faceboook" : "",
+	"github" : "https://github.com/snehal2841",
+	"twitter" : "url",
+},
+
+
+
  {
    "name" : "Vaishnav Trivedi",
 	"imageur1" :"",
@@ -1430,7 +1441,7 @@
 	"quora" : "https://www.quora.com/profile/Vaishnav-Trivedi",
 	"referral" : "seniors"
 },
-
+ {
 
        "name" : "Aditya Aggarwal",
        "imageurl" : "",
