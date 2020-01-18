@@ -1032,6 +1032,7 @@
 	"github" : "https://github.com/Alka-git12",
 	"twitter" : "url",
 },
+
 	
 	
 {
@@ -1046,9 +1047,40 @@
 	
 	},	 
 
+{
+	"name" : "Payili Vangmayi",
+	"imageur1" : "https://avatars1.githubusercontent.com/u/58723092?s=400&u=fd7b1b0f0ce145f742cca3937c8c84d85b3c93a2&v=4",
+	"about" : "wingardium leviosa",
+	"college" : "Indian Institute of Information Technology, Allahabad",
+	"facebook" : "",
+	"github" : "https://github.com/hermoine20002",
+	"twitter" : "",
+	"referral" : "elon musk"
+        
+  {
+
+
+       "name" : "Aditya Aggarwal",
+       "imageurl" : "",
+       "about" : "Trying to code",
+       "college" : "IIITA-Allahabad",
+       "facebook" : "https://www.facebook.com/photo.php?fbid=158003802206435&set=a.148857116454437&type=3&source=11&referrer_profile_id=100039904490033",
+       "github" : "https://avatars1.githubusercontent.com/u/58394891?s=400&v=4",
+       "twitter" : "",
+       "referral" : "Nobody"
+    },
+
+
  
 
-
+{
+	"name" : "Priyansha gupta",
+	"imageurl" : "",
+	"about" : "learner",
+	"faceboook" : "",
+	"github" : "https://github.com/partofheartpri10",
+	"twitter" : "url",
+}
 
 
 ]
