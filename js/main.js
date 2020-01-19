@@ -56,6 +56,8 @@ $(document).ready(function() {
 
 });
 
+});
+
 
 })(jQuery);
 
