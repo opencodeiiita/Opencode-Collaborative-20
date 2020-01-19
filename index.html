@@ -201,6 +201,10 @@
       <th>Imageurl</th>
       <th>About</th>
       <th>College</th>
+      <th>Facebook</th>
+      <th>Github</th>
+      <th>Twitter</th>
+      <th>Referral</th>
     </thead>
     <tbody>
       
@@ -271,7 +275,7 @@
      var f = mydata[i]
 
      var tblRow = "<tr>" + "<td>" + f.name + "</td>" +
-     "<td> " + f.imageurl + "</td>" + "<td>" + f.about + "</td>" + "<td>" + f.college + "</td>" + "</tr>"
+     "<td> " + f.imageurl + "</td>" + "<td>" + f.about + "</td>" + "<td>" + f.college + "</td>" + "<td>" + f.facebook + "</td>" + "<td>" + f.github + "</td>" + "<td>" + f.twitter + "</td>" + "<td>" + f.referral + "</td>" + "</tr>"
      
      $(tblRow).appendTo("tbody");
   }
