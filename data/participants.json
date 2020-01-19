@@ -1,4 +1,5 @@
 
+
 [{
     "name": "Divy Agrawal",
     "imageurl": "https://scontent.fdel11-1.fna.fbcdn.net/v/t1.0-9/s960x960/70837762_705719503237612_2705694826564681728_o.jpg?_nc_cat=111&_nc_ohc=_amegaNfRn0AX8Xzu13&_nc_ht=scontent.fdel11-1.fna&_nc_tp=1002&oh=70cbcdbba83e52620cf17a01d750b3ab&oe=5EDBBEB6",
@@ -12075,6 +12076,28 @@
 
 	{
 
+        "name" : "Prince Kumar",
+        "imageurl" : "https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/s960x960/68703371_540062806734042_3699060727076618240_o.jpg?_nc_cat=111&_nc_ohc=3WEt5OuctWkAX8Nhw1D&_nc_ht=scontent.fknu1-1.fna&_nc_tp=1002&oh=b403ee555a798edb1463a517adf51340&oe=5EA66C28",
+        "about" : "Zero!!!",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/profile.php?id=100021909814800",
+        "github" : "https://github.com/Princeraaz",
+        "twitter" : "",
+        "referral" : ""
+     
+     },
+ 
+	 {
+		"name" : "Abhishek Bhaware",
+		"imageurl" : "https://www.facebook.com/abhishek.bhaware.5",
+		"about" : "Exploring the great world!",
+		"college" : "IIIT Allahabad",
+		"facebook" : "https://www.facebook.com/abhishek.bhaware.5",
+		"github" : "https://github.com/abhishekbhaware",
+		"twitter" : "",
+		"referral" : "Seniors"
+	 },
+  {
 		"name": "Rohini Mishra",
 		"imageurl": "",
 		"about": "Escaping the ordinary",
@@ -13199,6 +13222,19 @@
 		"twitter": "url"
 	}, {
 
+
+},
+  {
+	"name":"Ayush Baranwal",
+"imageurl":"",
+"about":"Want to learn",
+"college":"IIIT-ALLAHABAD",
+"facebook":"",
+"github":"https://github.com/Ayush-Baranwal",
+"twitter":"",
+"referral":"friends" 
+},
+
 		"name": "Gauri Kesarwani",
 		"imageurl": "https://avatars3.githubusercontent.com/u/58395889?s=400&v=4",
 		"about": "Never too late to begin",
@@ -13207,7 +13243,8 @@
 		"github": "https://github.com/Gaurik936",
 		"twitter": "",
 		"referral": ""
-	},
+	
+
 
 
 	{
@@ -13410,6 +13447,7 @@
 
 
 }
+
 
 
 ]
