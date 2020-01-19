@@ -583,6 +583,7 @@ h6 {
     background-color: #DDF;
     color: #000;
 }
+
 .ch{
   marign-left: 40px;
   float: left;
@@ -606,3 +607,5 @@ background: linear-gradient(to right, #92FE9D, #00C9FF); /* W3C, IE 10+/ Edge, F
   position: relative;
   transition: 0.8s;
 }
+=======
+
