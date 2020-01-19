@@ -1,0 +1,1 @@
+* DummyContestantName - DummyContestantHandle
