@@ -1,5 +1,6 @@
 
 
+
 [{
     "name": "Divy Agrawal",
     "imageurl": "https://scontent.fdel11-1.fna.fbcdn.net/v/t1.0-9/s960x960/70837762_705719503237612_2705694826564681728_o.jpg?_nc_cat=111&_nc_ohc=_amegaNfRn0AX8Xzu13&_nc_ht=scontent.fdel11-1.fna&_nc_tp=1002&oh=70cbcdbba83e52620cf17a01d750b3ab&oe=5EDBBEB6",
@@ -64,6 +65,7 @@
   {
 
 
+
 		"name": "Avneesh Kumar",
 		"imageurl": "contestant/avatar.jpg",
 		"about": "Hello I'm a developer",
@@ -82,6 +84,7 @@
 		"github": "https://github.com/sggts04",
 		"twitter": "https://twitter.com/sggts04",
 		"referral": ""
+
 
   },
 	{
@@ -209,6 +212,28 @@
     "twitter" : "",
     "referral" : "My seniors"
     },
+  {
+	"name": "Avneesh Kumar",
+	"imageurl": "contestant/avatar.jpg",
+	"about": "Hello I'm a developer",
+	"college": "IIITA",
+	"facebook": "https://www.facebook.com/avaneeshsahu000",
+	"github": "https://github.com/Cybertron-Avneesh",
+	"twitter": "",
+	"referral": "Seniors"
+    },
+     {
+        "name" : "Shreyas Gupta",
+        "imageurl" : "https://avatars0.githubusercontent.com/u/20678047?s=460&v=4",
+        "about" : "On my journey of Software Development",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/shreyashwr",
+        "github" : "https://github.com/sggts04",
+        "twitter" : "https://twitter.com/sggts04",
+        "referral" : ""
+     },
+     {
+
 
      {
         "name" : "Janit Lodha",
@@ -598,8 +623,8 @@
         "github" : "https://github.com/rohini13",
         "twitter" : "",
         "referral" : ""
-     },
 
+}, 
 
 
  {
@@ -613,6 +638,20 @@
         "github" : "https://github.com/rishika8910",
         "twitter" : "",
         "referral" : "seniors"
+     }
+ 	{
+	 "name" : "Sourabh Gupta",
+        "imageurl" : "",
+        "about" : "Hello I'm r00tDada",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/r00tDada",
+        "twitter" : "",
+        "referral" : ""
+ }
+ 
+]
+
 
 
      },
@@ -10178,7 +10217,6 @@
       "github":"https://github.com/deepakgupta124",
       "twitter":""
    }
-=======
 
 
 
@@ -10267,9 +10305,8 @@
     "github" : "github.com/xyz1506",
     "twitter" : "",
     "referral" : "Seniors"
-  }
-=======
-}
+  
+}, 
 
  {
  "name" : "Naina Kumari",
