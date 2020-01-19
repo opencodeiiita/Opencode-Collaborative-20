@@ -1,1 +1,1 @@
-* DummyContestantName - DummyContestantHandle
+* DummyContestantName - [DummyContestantHandle](github.com/DummyContestantHandle) 
