@@ -1,4 +1,17 @@
-[{
+[
+		{
+			"name": "Anjali Chaturvedi",
+			"imageurl": "",
+			"about": "",
+			"college": "IIIT Allahabad",
+			"facebook": "",
+			"github": "https://github.com/Tarini-Anjali",
+			"website": "",
+			"twitter": "",
+			"referral": ""
+		},
+
+{
         "name": "Kumar Anip",
         "imageurl": "",
         "about": "",
@@ -18,12 +31,7 @@
         "twitter": "https://twitter.com/Himansh84968338",
         "referral": "Seniors"
     },
-    {
-
-
-
-
-[{
+{
     "name": "Divy Agrawal",
     "imageurl": "https://scontent.fdel11-1.fna.fbcdn.net/v/t1.0-9/s960x960/70837762_705719503237612_2705694826564681728_o.jpg?_nc_cat=111&_nc_ohc=_amegaNfRn0AX8Xzu13&_nc_ht=scontent.fdel11-1.fna&_nc_tp=1002&oh=70cbcdbba83e52620cf17a01d750b3ab&oe=5EDBBEB6",
     "about": "1st year BTech Student",
