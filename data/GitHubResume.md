@@ -4,6 +4,7 @@
 * pradhuman1-(http://resume.github.io/?pradhuman1)
 * Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
 * Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
+* Ananya Mohanty - [http://resume.github.io/?ananya-mohanty](http://resume.github.io/?ananya-mohanty)
 * Sarthak Maheshwari - [https://resume.github.io/?sarthakm21](https://resume.github.io/?sarthakm21) 
 * Rohini Mishra- [http://resume.github.io/?rohini13](http://resume.github.io/?rohini13)
 * Cheena - [https://resume.github.io/?griffy06](https://resume.github.io/?griffy06)
