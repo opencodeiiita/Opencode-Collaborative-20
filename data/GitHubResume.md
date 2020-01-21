@@ -8,6 +8,7 @@
 * pradhuman1-(http://resume.github.io/?pradhuman1)
 * Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
 * Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
+* Vishwas Singh - [https://resume.github.io/?infern018](https://resume.github.io/?infern018)
 * Tejas Agrawal - [https://resume.github.io/?cyber-venom003](https://resume.github.io/?cyber-venom003)
 * Ananya Mohanty - [http://resume.github.io/?ananya-mohanty](http://resume.github.io/?ananya-mohanty)
 * Sarthak Maheshwari - [https://resume.github.io/?sarthakm21](https://resume.github.io/?sarthakm21) 
@@ -15,4 +16,3 @@
 * Cheena - [https://resume.github.io/?griffy06](https://resume.github.io/?griffy06)
 * Ayush Tiwari - [https://resume.github.io/?blaze-assault](https://resume.github.io/?blaze-assault)
 * Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
-
