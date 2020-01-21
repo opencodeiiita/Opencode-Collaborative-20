@@ -5,3 +5,6 @@
 * Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
 * Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
 * Rohini Mishra- [http://resume.github.io/?rohini13](http://resume.github.io/?rohini13)
+* Cheena - [https://resume.github.io/?griffy06](https://resume.github.io/?griffy06)
+* Ayush Tiwari - [https://resume.github.io/?blaze-assault](https://resume.github.io/?blaze-assault)
+* Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
