@@ -126,7 +126,16 @@ h6 {
 .main-pages {
   margin-top: 60px;
 }
-
+/*--------------------------------------------------------------
+# Landing Section
+--------------------------------------------------------------*/
+#landing {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: #f5f8fd url("../img/bg.png") center top no-repeat;
+  background-size: cover;
+}
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -501,7 +510,7 @@ h6 {
   color: #413e66;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  margin-left: 380px;
+  text-align: center;
 }
 
 .proj_name{

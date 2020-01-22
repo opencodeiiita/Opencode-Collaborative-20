@@ -1,4 +1,13 @@
-[{
+[ {	"name": "Shivam Agrahari",
+        "imageurl": "",
+        "about": "",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/profile.php?id=100042424777755",
+        "github": "https://github.com/geeks5551",
+        "twitter": "",
+        "referral": ""
+    },
+ {
         "name": "Kumar Anip",
         "imageurl": "",
         "about": "",
@@ -16,6 +25,16 @@
         "facebook": "https://www.facebook.com/himanshu.vishwakarma.7524879",
         "github": "https://github.com/stygian-96",
         "twitter": "https://twitter.com/Himansh84968338",
+        "referral": "Seniors"
+    },
+    {
+        "name": "Suras Kumar Nayak",
+        "imageurl": "",
+        "about": "Hello, I am a learner !!",
+        "college": "IIIT Allahabad",
+        "facebook": "",
+        "github": "https://github.com/surasnayak",
+        "twitter": "",
         "referral": "Seniors"
     },
     {
@@ -88,6 +107,16 @@
 
     {
         "name": "Avneesh Kumar",
+        "imageurl": "",
+        "about": "Hello I'm a developer",
+        "college": "IIITA",
+        "facebook": "",
+        "github": "https://github.com/CodeDropper",
+        "twitter": "",
+        "referral": "Raunak Boss"
+    },
+    {
+        "name": "Harsh Bajaj",
         "imageurl": "contestant/avatar.jpg",
         "about": "Hello I'm a developer",
         "college": "IIITA",
@@ -3784,9 +3813,9 @@
 
 
 
-     
 
-     
+
+
      {
         "name":"Ayush Tiwari",
         "imageurl" : "https://avatars0.githubusercontent.com/u/58394100?s=400&v=4",
@@ -3849,7 +3878,7 @@
         "twitter" : "",
         "referral" : ""
 
-}, 
+},
 
 
  {
@@ -3874,13 +3903,13 @@
         "twitter" : "",
         "referral" : ""
  }
- 
+
 ]
 
 
 
      },
-     
+
      {
         "name" : "Medha Balani",
         "imageurl" : "https://avatars2.githubusercontent.com/u/58399279?s=400&u=a861c1bdfdb394eff5bc8635601863c723f713a8&v=4",
@@ -3890,7 +3919,7 @@
         "github" : "https://github.com/medhabalani",
         "twitter" : "",
         "referral" : "iiita seniors",
-    
+
      },
 {
 		"name": "Anmol Bansal",
@@ -3914,7 +3943,7 @@
         "github" : "https://github.com/snehal199",
         "twitter" : "",
         "referral" : "Seniors"
-     
+
      },
 	{
          "name" : "Siddhnat Khobragade",
@@ -3929,7 +3958,7 @@
 
 
 
-    
+
 
      {
         "name":"harsh mahajan",
@@ -3952,7 +3981,7 @@
          "twitter" : "",
          "referral" : ""
 
-	
+
 
 
     },
@@ -4084,7 +4113,7 @@
 
       },
 	{
-	
+
          "name" : "Ayan Dhiman",
         "imageurl" : "https://github.com/ayandhiman",
         "about" : "Hello I'm a learner",
@@ -4105,7 +4134,7 @@
         "twitter" : "",
         "referral" : "Seniors"
       }	,
-      
+
 
 	 {
         "name" : "Sneha Gupta",
@@ -4155,7 +4184,7 @@
       "github" : "https://github.com/padityak79",
       "twitter" : "",
       "referral" : "Seniors"
-     
+
 
 
 
@@ -4171,7 +4200,7 @@
         "github" : "https://github.com/Princeraaz",
         "twitter" : "",
         "referral" : ""
-     
+
      },
 
 
@@ -4186,7 +4215,7 @@
         "referral" : "seniors"
 
      },
-	
+
 	{
         "name" : "Muskan Deep Kaur Maini",
         "imageurl" : "https://avatars3.githubusercontent.com/u/58771504?s=400&u=466b3f50f9f4e39fe570d338bce80cdaac2a54b6&v=4",
@@ -4222,8 +4251,8 @@
 		  "linkedin" : "https://www.linkedin.com/in/shyam-tayal-72b086192/",
 		  "referral" : ""
 	  },
-    
-    
+
+
 
 
 	 {
@@ -4279,8 +4308,8 @@
 
 
 
-	
-{ 
+
+{
 
 
 	"name": "Aman Singh",
@@ -4296,7 +4325,7 @@
     }	,
 
 
-  { 
+  {
 
 
 "name":"Aniemsh Choudhury",
@@ -4499,8 +4528,8 @@
 "twitter":"",
 "referral":""
 },
-  
-  
+
+
  {
 	 "name": "Sahil Sharma",
 	 "imageurl" : "https://avatars0.githubusercontent.com/u/55686016?s=400&v=4",
@@ -4536,7 +4565,7 @@
         "referral" : ""
 
      }
-     {			
+     {
 	"name":"Mandar Wanjre",
 	"imageurl":"https://avatars0.githubusercontent.com/u/58388338?s=400&u=a0c050b093b581f6a24bded58a58724a4515938a&v=4"
 	"about" :"Excited to get learned with amazing technical stuff",
@@ -4607,7 +4636,7 @@
           "github": "https://github.com/pavikachaudhary",
           "twitter": "url",
           "referral": ""
-	
+
 
 	},
 	{
@@ -4619,7 +4648,7 @@
         "github": "https://github.com/harsh-797",
         "twitter": "",
         "referral": "Seniors"
-	
+
 
 	},
 
@@ -4658,11 +4687,11 @@
 	"github" : "https://github.com/Shreesh19",
 	"twitter" : "https://twitter.com/ShreeshSwaraj",
 	"referral" : ""
-        
+
 
 },
 
-  
+
   {
 	"name" : "Alka Trivedi",
 	"imageurl" : "",
@@ -4672,7 +4701,7 @@
 	"twitter" : "url",
 },
 
- 
+
 
 
  {
@@ -4683,12 +4712,12 @@
          "facebook" : "https://www.facebook.com/shruti.nanda.735",
          "github" : "https://github.com/iit2019017",
          "twitter" : "not on twitter",
-         "referral" : "" 
+         "referral" : ""
      }
 
 
 
- {			
+ {
 	"name":"Mandar Wanjre",
 	"imageurl":"https://avatars0.githubusercontent.com/u/58388338?",s=400&u=a0c050b093b581f6a24bded58a58724a4515938a&v=4",
 	"about" :"Excited to get learned with amazing technical stuff",
@@ -7766,9 +7795,9 @@
         "referral" : ""
 
      },
-               
 
- 
+
+
 {
 
 
@@ -7948,7 +7977,7 @@
 
  },
 {
-    
+
     "name" : "Aarushi",
     "imageurl" : "https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-260nw-721703848.jpg",
     "about" : "still learning",
@@ -7959,7 +7988,7 @@
     "referral" : ""
 },
 
-	
+
 	{
         "name" : "Muskan Deep Kaur Maini",
         "imageurl" : "https://avatars3.githubusercontent.com/u/58771504?s=400&u=466b3f50f9f4e39fe570d338bce80cdaac2a54b6&v=4",
@@ -7980,7 +8009,7 @@
          "github" : "https://github.com/d3ad5h01",
          "twitter" : "",
          "referral" : "Seniors "
-     
+
 
 	},
 
@@ -9029,7 +9058,7 @@
 
 
 
-{ 
+{
 
 
 "name": "Aman Singh",
@@ -9045,7 +9074,7 @@
 }	,
 
 
-{ 
+{
 
 
 "name":"Aniemsh Choudhury",
@@ -9584,7 +9613,7 @@
     "github" : "https://github.com/Princeraaz",
     "twitter" : "",
     "referral" : ""
- 
+
  },
 
 
@@ -13062,7 +13091,7 @@
 "faceboook" : "",
 "github" : "https://github.com/partofheartpri10",
 "twitter" : "url",
-}, 
+},
 
 
 
@@ -13507,7 +13536,7 @@
 "github" : "https://github.com/Shreesh19",
 "twitter" : "https://twitter.com/ShreeshSwaraj",
 "referral" : ""
-    
+
 
 },
 
@@ -13530,8 +13559,8 @@
     "github" : "github.com/xyz1506",
     "twitter" : "",
     "referral" : "Seniors"
-  
-}, 
+
+},
 
  {
  "name" : "Naina Kumari",
@@ -13564,8 +13593,8 @@
        "github" : "https://github.com/kaustubhgangwar",
        "twitter" : "https://twitter.com/kaustubhgangwar",
        "referral" : "Friends"
-	
-	
+
+
 	}
 ,
 
@@ -15346,9 +15375,9 @@
         "github" : "https://github.com/Princeraaz",
         "twitter" : "",
         "referral" : ""
-     
+
      },
- 
+
 	 {
 		"name" : "Abhishek Bhaware",
 		"imageurl" : "https://www.facebook.com/abhishek.bhaware.5",
@@ -16494,7 +16523,7 @@
 "facebook":"",
 "github":"https://github.com/Ayush-Baranwal",
 "twitter":"",
-"referral":"friends" 
+"referral":"friends"
 },
 
 		"name": "Gauri Kesarwani",
@@ -16505,7 +16534,7 @@
 		"github": "https://github.com/Gaurik936",
 		"twitter": "",
 		"referral": ""
-	
+
 
 
 
@@ -16729,12 +16758,29 @@
        "github" : "https://github.com/hkbiet",
        "twitter" : "",
        "referral" : " Friends"
+    },
+	{
+		"name" : "Sunidhi Kashyap",
+		"imageurl" : "",
+		"about" : "",
+        "college" : "IIIT Allahabad",
+		"facebook" : "",
+        "github" : "https://github.com/sunidhi-kashyap",
+		"twitter" : "",
+        "referral" : "Friends"
+	
+	}
+,{
+
+       "name" : "Riya Jawandhiya",
+       "imageurl" : "",
+       "about" : "Hello I'm a web developer",
+       "college" : "Medicaps University",
+       "facebook" : "url",
+       "github" : "url",
+       "twitter" : "url",
+       "referral" : "friends"
     }
 
 
-
 ]
-
-
-
-
