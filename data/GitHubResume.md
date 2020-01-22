@@ -17,3 +17,4 @@
 * Cheena - [https://resume.github.io/?griffy06](https://resume.github.io/?griffy06)
 * Ayush Tiwari - [https://resume.github.io/?blaze-assault](https://resume.github.io/?blaze-assault)
 * Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
+* Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
