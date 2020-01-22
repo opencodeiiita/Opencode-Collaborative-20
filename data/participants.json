@@ -16780,7 +16780,17 @@
        "github" : "url",
        "twitter" : "url",
        "referral" : "friends"
-    }
+    },
+{
+        "name": "Mitisha Agarwal",
+        "imageurl": "https://avatars0.githubusercontent.com/u/58738510?s=460&v=4",
+        "about": "Love Yourself And Be Yourself",
+        "college": "IIIT Allahabad",
+        "facebook": "",
+        "github": "https://github.com/asena-makatza",
+        "twitter": "",
+        "referral": "seniors"
+    },
 
 
 ]
