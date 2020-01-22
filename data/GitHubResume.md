@@ -1,6 +1,10 @@
 * DummyContestantName - [Link to resume](link to resume)
 * Varun Bhardwaj - [https://resume.github.io/?starboi02](https://resume.github.io/?starboi02)
 * Arpit Agarwal- [https://resume.github.io/?aarpit1010](https://resume.github.io/?aarpit1010)
+* pradhuman1-(http://resume.github.io/?pradhuman1)
+* Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
+* Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
+* Yash Mishra - [https://resume.github.io/?codedude1](https://resume.github.io/?codedude1)
 * pradhuman1 - [http://resume.github.io/?pradhuman1](http://resume.github.io/?pradhuman1)
 * Janit Lodha - [http://resume.github.io/?JLodha](http://resume.github.io/?JLodha)
 * Shreyas Gupta - [https://resume.github.io/?sggts04](https://resume.github.io/?sggts04)
@@ -17,4 +21,9 @@
 * Cheena - [https://resume.github.io/?griffy06](https://resume.github.io/?griffy06)
 * Ayush Tiwari - [https://resume.github.io/?blaze-assault](https://resume.github.io/?blaze-assault)
 * Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
+
 * Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
+
+
+
+
