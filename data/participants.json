@@ -1,4 +1,13 @@
-[{
+[ {	"name": "Shivam Agrahari",
+        "imageurl": "",
+        "about": "",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/profile.php?id=100042424777755",
+        "github": "https://github.com/geeks5551",
+        "twitter": "",
+        "referral": ""
+    },
+ {
         "name": "Kumar Anip",
         "imageurl": "",
         "about": "",
@@ -98,6 +107,16 @@
 
     {
         "name": "Avneesh Kumar",
+        "imageurl": "",
+        "about": "Hello I'm a developer",
+        "college": "IIITA",
+        "facebook": "",
+        "github": "https://github.com/CodeDropper",
+        "twitter": "",
+        "referral": "Raunak Boss"
+    },
+    {
+        "name": "Harsh Bajaj",
         "imageurl": "contestant/avatar.jpg",
         "about": "Hello I'm a developer",
         "college": "IIITA",
@@ -16751,7 +16770,17 @@
         "referral" : "Friends"
 	
 	}
+,{
 
+       "name" : "Riya Jawandhiya",
+       "imageurl" : "",
+       "about" : "Hello I'm a web developer",
+       "college" : "Medicaps University",
+       "facebook" : "url",
+       "github" : "url",
+       "twitter" : "url",
+       "referral" : "friends"
+    }
 
 
 ]
