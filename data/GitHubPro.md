@@ -6,6 +6,7 @@
 * Ekansh Nishad - [EkanshNishad](https://github.com/EkanshNishad)
 * Ananya Mohanty - [ananya-mohanty](https://github.com/ananya-mohanty)
 * Pradhuman -[pradhuman1](https://github.com/pradhuman1)
+* Amit jain- [amit2223](https://github.com/amit2223)
  
 
  
