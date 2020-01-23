@@ -23,11 +23,9 @@
 * Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
 * Kaushal Sahu - [https://resume.github.io/?KaushalSahu](https://resume.github.io/?KaushalSahu)
 * Manish Kumar - [https://resume.github.io/?manish-kumar-2000](https://resume.github.io/?manish-kumar-2000)
-
-
 * Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
-
-
+* Sanskar Patro - [https://resume.github.io/?sanskar-p](https://resume.github.io/?sanskar-p)
+* Garvit Chittora - [https://resume.github.io/?garvitchittora](https://resume.github.io/?garvitchittora)
 
 
 

@@ -86,6 +86,7 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  background-color: white !important;
 }
 
 #header.header-scrolled,
@@ -190,6 +191,9 @@ h6 {
   /* Drop Down */
   /* Deep Drop Down */
 }
+#upper{
+background-color: white !important;
+}
 
 .main-nav,
 .main-nav * {
@@ -202,6 +206,7 @@ h6 {
   position: relative;
   white-space: nowrap;
   float: left;
+
 }
 
 .main-nav a {
