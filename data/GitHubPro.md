@@ -9,7 +9,11 @@
 * Ekansh Nishad - [EkanshNishad](https://github.com/EkanshNishad)
 * Ananya Mohanty - [ananya-mohanty](https://github.com/ananya-mohanty)
 * Pradhuman -[pradhuman1](https://github.com/pradhuman1)
+
+* Amit jain- [amit2223](https://github.com/amit2223)
+
 * Mridul20  - [Mridul20](https://github.com/Mridul20) 
+
 * Aaryan Bhardwaj - [uglyprincess](https://github.com/uglyprincess)
 * Tejas Agrawal - [cyber-venom003](https://github.com/cyber-venom003)
 * Vishwas Singh - [infern018](https://github.com/infern018)
