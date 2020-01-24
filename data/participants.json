@@ -81,7 +81,7 @@
         "referral":""
     },
     {
-	   "name" : "Garvit Chittora",
+	     "name" : "Garvit Chittora",
        "imageurl" : "img/garvitchittora.jpg",
        "about" : "My first task",
        "college" : "IIIT Allahabad",
@@ -112,7 +112,7 @@
 		"referral": "GeekHaven"
 	},
 	 {
-         "name" : "Varun Tiwari",
+    "name" : "Varun Tiwari",
     "imageurl" : "https://avatars2.githubusercontent.com/u/58032608?s=460&v=4",
     "about" : "Making my way to the world of OpenSource",
     "college" : "IIIT Allahabad",
@@ -122,14 +122,15 @@
     "referral" : "Seniors"
     },
     {
-         "name": "Aman Singh",
-    "imageurl": "https://avatars0.githubusercontent.com/u/53997924?s=460&v=4",
-    "about": "Eager to learn",
-    "college": "IIIT Allahabad",
-    "facebook": "https://www.facebook.com/Am4nS1ngh",
-    "github": "https://github.com/prince-7",
-    "twitter": "",
-    "referral": "Geek-Haven"
+
+      "name": "Aman Singh",
+      "imageurl": "https://avatars0.githubusercontent.com/u/53997924?s=460&v=4",
+      "about": "Eager to learn",
+      "college": "IIIT Allahabad",
+      "facebook": "https://www.facebook.com/Am4nS1ngh",
+      "github": "https://github.com/prince-7",
+      "twitter": "",
+      "referral": "Geek-Haven"
    },
    {
       "name":"Aniemsh Choudhury",
@@ -253,6 +254,16 @@
       "referral":"Seniors"
    },
        {
+        "name": "Manish Kumar",
+        "imageurl": "",
+        "about": "",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/profile.php?id=100009172781875",
+        "github": "https://github.com/manish-kumar-2000",
+        "twitter": "",
+        "referral": "Seniors"
+    },
+    {
         "name": "Suras Kumar Nayak",
         "imageurl": "",
         "about": "Hello, I am a learner !!",
@@ -414,14 +425,14 @@
        "referral" : " Friends"
     },
     {
-	"name": "Daniel Dey",
-	"imageurl": "https://images.app.goo.gl/ofkYjCru7PYKbEGEA",
-	"about": "Hey everyone",
-	"college": "IIIT Allahabad",
-	"facebook": "",
-	"github": "https://github.com/deydaniel",
-	"twitter": "",
-	"referral": "seniors"
+	  "name": "Daniel Dey",
+	  "imageurl": "https://images.app.goo.gl/ofkYjCru7PYKbEGEA",
+	  "about": "Hey everyone",
+	  "college": "IIIT Allahabad",
+  	"facebook": "",
+  	"github": "https://github.com/deydaniel",
+	  "twitter": "",
+	  "referral": "seniors"
     },
     {
     "name": "Atithi kumari",
@@ -451,7 +462,7 @@
      "github": "https://github.com/peace-25",
      "twitter": "",
      "referral": "SENIORS"
-},
+    },
  {
   "name": "Nikhilesh Kumar",
   "imageurl": "https://avatars1.githubusercontent.com/u/58396239?s=400&u=b91723cad8c780e84e67f0297b8ae0946f172e23&v=4",
