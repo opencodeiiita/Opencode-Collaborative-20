@@ -1,4 +1,5 @@
-[	{	
+
+data = [	{	
 	"name": "Prathamesh Kakde",
         "imageurl": "https://avatars3.githubusercontent.com/u/58396450?s=460&v=4",
         "about": "it's Never Better to Know ME",
@@ -921,7 +922,7 @@
   "github":"https://github.com/aarpit1010",
   "twitter":"",
   "referral":"E-Mail"
- 	}
+ 	},
  	   {
       "name":"Ankit Gupta",
       "imageurl":"",
@@ -1312,18 +1313,5 @@
 
 
 
-
-
- 
-
-
-
-
-
-
-
-
-	
-	
 
 

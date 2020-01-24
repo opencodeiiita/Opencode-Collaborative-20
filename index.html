@@ -8,7 +8,7 @@
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <!-- <link href="img/favicon.png" rel="icon"> -->
+  <link href="img/favicon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -81,6 +81,7 @@
               width="25" height="25"></a>
             </li>
         </ul>
+
       </nav><!-- .main-nav -->
       
     </div>
@@ -144,6 +145,14 @@
     </section><!-- #about -->
 
   </main>
+
+  		</div>
+  		</div>
+  	</div>
+  </main>
+
+
+  
 
 <!--==========================
     Projects Section
@@ -231,6 +240,25 @@
   	</div>
   </main>
 
+ 
+
+
+<!--==========================
+    Participants and details
+  ============================-->
+
+  <main id = "main">
+    <div class="container">
+      <div class="row ch">
+      <h1 id="participants">Participants and details</h1>
+      <br>
+      <div id ="part_details">
+        
+      </div>
+      </div>  
+    </div>
+
+
   <!--==========================
     Footer
   ============================-->
@@ -277,5 +305,21 @@
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
 
+  <script type="text/javascript" src = "data/participants.json"></script>
+
+
+
+
+  <script >
+  var mydata = JSON.parse(JSON.stringify(data))
+  for(var i=0; i< mydata.length; i++){
+     var f = mydata[i]
+
+     var tblRow = "<div class=\"col-lg-3 col-sm-6 tiles \"><div class=\"card \" style=\" width: 10rem;\">" + "<img class=\"card-img-top\" src = \" "+f.imageurl+" alt=\"Card image cap\" \"width = \"50%\" height = \"40%\"></span> "+"<div class=\"card-body \" ><span class=\"card-title\">"+ f.name+"</span> "+"<p class=\"card-text\"> <ul class=\"list-group list-group-flush\">"+ "<li class=\"list-group-item\"> College: " + f.college+ "</li>" +"</ul></p>"+
+        "<span class=\"proj_name\">"+ "<div class = \"displa\"><button class = \"lin\" onclick=\"window.location.href =\'"+  f.github+"\' ;\" style=\"margin-top: 0.1px;\"><span>"+ "Github"+ "</span></button> </div> <button class = \"lin\" onclick=\"window.location.href =\' "+  f.facebook+"\' ;\" style=\"margin-top: 0.1px;\"><span>"+ "Facebook"+ "</span></button> </div> </div>"
+        // console.log(tblRow)
+      $(tblRow).appendTo("#part_details");
+  }
+</script>
 </body>
 </html>
