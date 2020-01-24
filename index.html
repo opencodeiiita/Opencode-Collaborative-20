@@ -152,20 +152,7 @@
   </main>
 
 
-  <!--==========================
-    Participants and details
-  ============================-->
-
-  <main id = "main">
-    <div class="container">
-      <div class="row ch">
-      <h1 id="participants">Participants and details</h1>
-      <br>
-      <div id ="part_details">
-        
-      </div>
-      </div>  
-    </div>
+  
 
 <!--==========================
     Projects Section
@@ -256,7 +243,20 @@
  
 
 
+<!--==========================
+    Participants and details
+  ============================-->
 
+  <main id = "main">
+    <div class="container">
+      <div class="row ch">
+      <h1 id="participants">Participants and details</h1>
+      <br>
+      <div id ="part_details">
+        
+      </div>
+      </div>  
+    </div>
 
 
   <!--==========================
@@ -317,7 +317,7 @@
 
      var tblRow = "<div class=\"col-lg-3 col-sm-6 tiles \"><div class=\"card \" style=\" width: 10rem;\">" + "<img class=\"card-img-top\" src = \" "+f.imageurl+" alt=\"Card image cap\" \"width = \"50%\" height = \"40%\"></span> "+"<div class=\"card-body \" ><span class=\"card-title\">"+ f.name+"</span> "+"<p class=\"card-text\"> <ul class=\"list-group list-group-flush\">"+ "<li class=\"list-group-item\"> College: " + f.college+ "</li>" +"</ul></p>"+
         "<span class=\"proj_name\">"+ "<div class = \"displa\"><button class = \"lin\" onclick=\"window.location.href =\'"+  f.github+"\' ;\" style=\"margin-top: 0.1px;\"><span>"+ "Github"+ "</span></button> </div> <button class = \"lin\" onclick=\"window.location.href =\' "+  f.facebook+"\' ;\" style=\"margin-top: 0.1px;\"><span>"+ "Facebook"+ "</span></button> </div> </div>"
-        console.log(tblRow)
+        // console.log(tblRow)
       $(tblRow).appendTo("#part_details");
   }
 </script>
