@@ -1303,6 +1303,16 @@ data = [	{
     "twitter" : "",
     "referral" : "Seniors"
  },
+{
+        "name": "Kshitij Kumar",
+        "imageurl": "https://scontent.flko3-1.fna.fbcdn.net/v/t1.0-9/p960x960/67068534_105572857436582_416586611959005184_o.jpg?_nc_cat=108&_nc_ohc=AE495n9WProAX995Uw_&_nc_ht=scontent.flko3-1.fna&_nc_tp=6&oh=83fe29fbff842f17b61bd7de519b8174&oe=5E91FFED",
+        "about": "exploring the world",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/kshitij.kumar.77736310",
+        "github": "https://github.com/KshitijKumar22",
+        "twitter": "",
+        "referral": "GeekHaven"
+    }
 ]
 
 
