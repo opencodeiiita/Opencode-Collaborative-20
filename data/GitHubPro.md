@@ -36,3 +36,6 @@
 * Piyush Gurjar - [Piyush4064](https://github.com/Piyush4064)
 * Kaushal Sahu - [KaushalSahu](https://github.com/KaushalSahu)
 
+
+* Aman Singh - [prince-7](https://github.com/prince-7)
+
