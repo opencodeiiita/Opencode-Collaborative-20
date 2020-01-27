@@ -8,6 +8,16 @@ data = [  {
     "twitter": "",
     "referral": ""
   },
+    {
+      "name": "Rishabh",
+        "imageurl": "https://instagram.flko3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/71528362_1085952818274341_4229189828912087040_n.jpg?_nc_ht=instagram.flko3-1.fna.fbcdn.net&_nc_ohc=9OVcArOiX_0AX8Byfsy&oh=ba20beb5b9b40935fbdc9710b9ff869f&oe=5EBE7806",
+        "about": "Trying out Stuff",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/profile.php?id=100016897592697",
+        "github": "https://github.com/maniacric",
+        "twitter": "",
+        "referral": ""
+    },
 
   {
     "name": "Shivam Agrahari",
