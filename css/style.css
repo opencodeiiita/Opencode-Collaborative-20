@@ -126,16 +126,7 @@ h6 {
 .main-pages {
   margin-top: 60px;
 }
-/*--------------------------------------------------------------
-# Landing Section
---------------------------------------------------------------*/
-#landing {
-  width: 100%;
-  height: 100vh;
-  position: relative;
-  background: #f5f8fd url("../img/bg.png") center top no-repeat;
-  background-size: cover;
-}
+
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -502,8 +493,32 @@ h6 {
   height: 92%;
   z-index: -1;
   content: '';
-  background-color: #ebf1fa;
+  background-color: #ebf1fa ;
   transition: .5s;
+}
+
+#footer{
+	width: 100%;
+	background-color: white !important;
+	padding: 15px 0px;
+    height:80px;
+}
+.copyright {
+    float: left;
+}
+
+.center {
+  float: left;
+  width: 47%;
+  
+}
+.right { 
+    width: 12%;
+	float: right;
+}
+.left { 
+    width: 41%;
+	float: left;
 }
 
 #projects {
@@ -616,5 +631,4 @@ background: linear-gradient(to right, #92FE9D, #00C9FF); /* W3C, IE 10+/ Edge, F
   position: relative;
   transition: 0.8s;
 }
-=======
 
