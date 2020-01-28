@@ -1757,5 +1757,19 @@ data = [  {
     "github": "github.com/thiefie",
     "twitter": "",
     "referral": "OpenCode 2019"
-  }
+  },
+{
+    "name": "Tanish Patel",
+    "imageurl": "",
+    "about": "Explore and learn",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/tanish.patel.750",
+    "github": "https://github.com/Tanish-16/tanish-16",
+    "twitter": "",
+    "referral": "Friends"
+  },
+
+
+
+
 ]
