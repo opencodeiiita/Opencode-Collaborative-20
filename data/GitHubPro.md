@@ -20,14 +20,7 @@
 * Aaryan Bhardwaj - [uglyprincess](https://github.com/uglyprincess)
 * Tejas Agrawal - [cyber-venom003](https://github.com/cyber-venom003)
 * Vishwas Singh - [infern018](https://github.com/infern018)
-
-
-
- 
-
- 
-
-
+* Manish Kumar - [manish-kumar-2000](https://github.com/manish-kumar-2000)
 * Piyush Gurjar - [Piyush4064](https://github.com/Piyush4064)
 * Kaushal Sahu - [KaushalSahu](https://github.com/KaushalSahu)
 
