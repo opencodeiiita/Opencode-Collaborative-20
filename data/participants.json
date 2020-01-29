@@ -1779,6 +1779,58 @@ data = [  {
     "referral": "OpenCode'19"
   }
 
+{
+	"name": "Daniel Dey",
+	"imageurl": "https://images.app.goo.gl/ofkYjCru7PYKbEGEA",
+	"about": "Hey everyone",
+	"college": "IIIT Allahabad",
+	"facebook": "",
+	"github": "https://github.com/deydaniel",
+	"twitter": "",
+	"referral": "seniors"
+},{
+
+       "name" : "Hemant Kumar",
+       "imageurl" : "https://avatars0.githubusercontent.com/u/15969042?s=460&v=4",
+       "about" : "Hi , i am here to just learn git and something new",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100027608000537",
+       "github" : "https://github.com/hkbiet",
+       "twitter" : "",
+       "referral" : " Friends"
+    },
+	{
+		"name" : "Sunidhi Kashyap",
+		"imageurl" : "",
+		"about" : "",
+        "college" : "IIIT Allahabad",
+		"facebook" : "",
+        "github" : "https://github.com/sunidhi-kashyap",
+		"twitter" : "",
+        "referral" : "Friends"
+	
+	}
+,{
+
+       "name" : "Riya Jawandhiya",
+       "imageurl" : "",
+       "about" : "Hello I'm a web developer",
+       "college" : "Medicaps University",
+       "facebook" : "url",
+       "github" : "url",
+       "twitter" : "url",
+       "referral" : "friends"
+    },
+ {      
+	"name" : "Sakshi Gupta",
+       "imageurl" : "",
+       "about" : "",
+       "college" : "IIIT allahabad",
+       "facebook" : "url",
+       "github" : "url",
+       "twitter" : "url",
+       "referral" : "friends
+    },
 
 
 ]
