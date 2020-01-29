@@ -6,4 +6,5 @@
 4. [Varun Bhardwaj](https://starboi02.github.io/starboi02_/mywebsite.html)
 
 5. [Manish Kumar](https://manish-kumar-2000.github.io/MyPortfolio/)
+6. [Rohini Mishra](https://rohini13.github.io/My-Website/)
 
