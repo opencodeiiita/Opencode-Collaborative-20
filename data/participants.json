@@ -1768,7 +1768,16 @@ data = [  {
     "twitter": "",
     "referral": "Friends"
   },
-
+  {
+    "name": "Aastha Kasera",
+    "imageurl": "https://drive.google.com/file/d/1qExU3xa5z_furrMHKGBqsjIf-lh22UvH/view?usp=sharing",
+    "about": "Noob :)",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/littleprodigy",
+    "twitter": "",
+    "referral": "OpenCode'19"
+  }
 
 
 
