@@ -1,6 +1,15 @@
-
-
-data = [  {
+data = [
+		{
+			"name": "Anjali Chaturvedi",
+			"imageurl": "",
+			"about": "",
+			"college": "IIIT Allahabad",
+			"facebook": "",
+			"github": "https://github.com/Tarini-Anjali",
+			"website": "",
+			"twitter": "",
+			"referral": ""
+		},  {
     "name": "Prathamesh Kakde",
     "imageurl": "https://avatars3.githubusercontent.com/u/58396450?s=460&v=4",
     "about": "it's Never Better to Know ME",
@@ -14,12 +23,25 @@ data = [  {
       "name": "Rishabh",
         "imageurl": "https://instagram.flko3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/71528362_1085952818274341_4229189828912087040_n.jpg?_nc_ht=instagram.flko3-1.fna.fbcdn.net&_nc_ohc=9OVcArOiX_0AX8Byfsy&oh=ba20beb5b9b40935fbdc9710b9ff869f&oe=5EBE7806",
         "about": "Trying out Stuff",
+
         "college": "IIIT Allahabad",
         "facebook": "https://www.facebook.com/profile.php?id=100016897592697",
         "github": "https://github.com/maniacric",
         "twitter": "",
         "referral": ""
     },
+
+    {
+        "name": "Himanshu Vishwakarma",
+        "imageurl": "https://avatars2.githubusercontent.com/u/54054289?s=400&v=4",
+        "about": "Hello, I am a learner !!",
+        "college": "IIIT Allahabad",
+        "facebook": "https://www.facebook.com/himanshu.vishwakarma.7524879",
+        "github": "https://github.com/stygian-96",
+        "twitter": "https://twitter.com/Himansh84968338",
+        "referral": "Seniors"
+    },
+
 
   {
     "name": "Shivam Agrahari",
