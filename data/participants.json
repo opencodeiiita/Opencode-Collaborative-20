@@ -1799,6 +1799,20 @@ data = [  {
        "twitter" : "",
        "referral" : " Friends"
     },
+
+
+    {"name" : "Harsh Thete",
+       "imageurl" : "https://avatars3.githubusercontent.com/u/58657856?s=460&v=4",
+       "about" : "I am using github",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100009165360037",
+       "github" : "https://github.com/harshthete001",
+       "twitter" : "",
+       "referral" : ""
+    },
+
+  
+
 	{
 		"name" : "Sunidhi Kashyap",
 		"imageurl" : "",
