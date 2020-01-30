@@ -94,7 +94,7 @@ $(document).ready(function() {
 
        for(var i=0;i<=number;i++) {
          var pno= i+1;
-        $('.paginationList').append('<button type="button" class="btn btn-secondary" id="'+i+'">'+pno+'</button>');
+        $('.paginationList').append('<button type="button" class="btn btn-secondary" id="'+i+'">'+i+'</button>');
        }
        $('.paginationList button').click(function(){
              var start = $(this).text();
