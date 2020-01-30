@@ -26,6 +26,10 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.css">
+<script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"></script>
 </head>
 
 <body>
@@ -258,13 +262,54 @@
       <div class="row ch">
       <h1 id="participants">Participants and details</h1>
       <br>
-      <div id ="part_details">
+      <!-- <div id ="part_details">
         
-      </div>
-      </div>  
+      </div> -->
+
+      
+      
+      <div class="col-lg-12 col-md-12 col-xs-12 table-responsive">
+        <table class="table  table-hover table-bordered">
+        <thead>
+          <tr class="bgColor">
+
+          </tr>
+        </thead>
+        <tbody id="myTable">
+           
+        </tbody>
+      </table>
     </div>
+    <div class="container">
+      <!-- <div class="col-lg-6 col-md-6 col-xs-12 pull-right" id="para">
+      </div> -->
+      <button type="button" class="btn btn-primary" id="PreValue">Previous</button>
+      <button type="button" class="btn  paginationList"> </button>
+
+      
+      <button type="button" class="btn btn-primary"  id="nextValue">Next</button>
+      </div>
+      
+</div>
+</div>
+</main>
 
 
+    <!-- </div>
+    <div class="col-lg-12 col-md-12 col-xs-12">
+      <div class="col-lg-6 col-md-6 col-xs-12 pull-right" id="para">
+      </div>
+      <div class="col-lg-6 col-md-6 col-xs-12 pull-right">
+          <div class="col-lg-1 col-md-2 col-xs-6 padding">
+        <button class="col-lg-12 col-xs-12 bgColor" id="PreValue">Previous</button>
+        </div>
+        <div class="col-lg-6 paginationList padding">
+        </div>
+        <div class="col-lg-1 col-md-2 col-xs-6 padding">
+        <button class="col-lg-12 col-xs-12 bgColor" id="nextValue">Next</button>
+        </div>	
+      </div>
+      </div> -->
   <!--==========================
     Footer
   ============================-->
@@ -316,7 +361,7 @@
 
 
 
-  <script >
+  <!-- <script >
   var mydata = JSON.parse(JSON.stringify(data))
   for(var i=0; i< mydata.length; i++){
      var f = mydata[i]
@@ -326,6 +371,19 @@
         // console.log(tblRow)
       $(tblRow).appendTo("#part_details");
   }
-</script>
+</script> -->
+
+<!-- <script>
+    var number = Math.round(partDetails.length / elements_per_page);//get total page number
+     for(i=0;i<=number;i++) {
+      $('.nav').append('<button class="btn">'+i+'</button>');//append a button for each page
+     }
+ $('.nav button').click(function(){//bind a click event
+       var start = $(this).text();//get the current page
+       table.empty();//empty the table
+       limit = 3*(parseInt(start)+1) > max_size ? max_size: 3*(parseInt(start)+1);//set the limit to max size if the limit is bigger then the max size
+      goFun(start*3,limit); //populate the table
+ });
+</script> -->
 </body>
 </html>

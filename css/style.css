@@ -1,8 +1,42 @@
+.bgColor, button:focus{
+  background-color: #315972;
+  color: #ffffff;
+  
+} 
+#PreValue,#nextValue{
+border: 5px;
+float: center;
+  height: 34px;
+  background-color: #64aed0;
+  border-radius: 5px;
+}
+.paginationList button{
+border:1px solid  #9dcbe8;
+background: #413e66;
+margin: 5px;
 
+}
+.padding{
+padding-left: 0;
+padding-right:0;
+}
+
+#people{
+  height: 1000px;
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
+.card-body{
+  height: 400px;
+}
+.card-img-top{
+  /* height: 150px;
+  max-width: 100px; */
+}
+.card-title{
+  height: 10px;
+}
 body {
   background: #fff;
   color: #444;
@@ -650,12 +684,17 @@ background: linear-gradient(to right, #92FE9D, #00C9FF); /* W3C, IE 10+/ Edge, F
 }
 
 .tiles{
-  width: 45%;
+  width: 50%;
   float: left;
   margin-top: 30px;
   margin-right:0;
   border-radius: 20%;
-
+  height: 500px;
+  font-size: 16px;
+  font-family: fantasy;
+  display: inline-block;
+  font-stretch: expanded;
+  
 }
 .lin{
    background-color: #413e66;
