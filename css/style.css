@@ -164,12 +164,10 @@ h6 {
 /*--------------------------------------------------------------
 # Landing Section
 --------------------------------------------------------------*/
-#landing {
+#one {
   width: 100%;
-  height: 100vh;
-  position: relative;
-  background: #f5f8fd url("../img/bg.png") center top no-repeat;
-  background-size: cover;
+  margin-top:100px;
+  
 }
 /*--------------------------------------------------------------
 # Intro Section
@@ -178,6 +176,7 @@ h6 {
 #intro {
   width: 100%;
   height: 100vh;
+  
   position: relative;
   background: #f5f8fd url("../img/intro-bg.jpg") center top no-repeat;
   background-size: cover;
