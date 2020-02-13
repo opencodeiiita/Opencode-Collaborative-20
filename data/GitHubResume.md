@@ -1,3 +1,5 @@
+* Snehalreet Kaur-[http://resume.github.io/?snehal199](http://resume.github.io/?snehal199)
+* Avneesh Kumar-[http://resume.github.io/?Cybertron-Avneesh](http://resume.github.io/?Cybertron-Avneesh)
 * DummyContestantName - [Link to resume](link to resume)
 * Varun Bhardwaj - [https://resume.github.io/?starboi02](https://resume.github.io/?starboi02)
 * Arpit Agarwal- [https://resume.github.io/?aarpit1010](https://resume.github.io/?aarpit1010)
@@ -30,4 +32,3 @@
 * Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
 * Sanskar Patro - [https://resume.github.io/?sanskar-p](https://resume.github.io/?sanskar-p)
 * Garvit Chittora - [https://resume.github.io/?garvitchittora](https://resume.github.io/?garvitchittora)
-* Snehalreet Kaur-[http://resume.github.io/?snehal199](http://resume.github.io/?snehal199)
