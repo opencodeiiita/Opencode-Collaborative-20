@@ -40,14 +40,14 @@
 
     <div id="topbar">
       <div class="container">
-   
+
       </div>
     </div>
 
     <div class="container" >
 
       <div class="logo float-left">
-     
+
         <h1 class="text-light"><a href="#intro" class="scrollto"><span>OPENCODE'20</span></a></h1>
         <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
@@ -56,26 +56,8 @@
         <ul>
           <li class="active"><a href="#intro">Home</a></li>
           <li><a href="#about">About Us</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
-            </ul>
-          </li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#participants">Participants</a></li>
           <li><a href="#footer">Contact Us</a></li>
           <li>
             <a href="https://www.facebook.com/opencodeiiita/"><i class="fa fa-facebook"></i></a></li>
@@ -85,13 +67,14 @@
         </ul>
 
       </nav><!-- .main-nav -->
-      
+
     </div>
   </header><!-- #header -->
 <!--==========================
     Landing Section
   ============================-->
   <section id="landing">
+    <img  id="one" src="https://raw.githubusercontent.com/opencodeiiita/Opencode-Collaborative-19/master/assets/img/opencode-banner.jpg">
   </section>
   <!--==========================
     Intro Section
@@ -105,7 +88,7 @@
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
-  
+
         <div class="col-md-6 intro-img order-md-last order-first">
           <img src="img/intro-img.svg" alt="" class="img-fluid">
         </div>
@@ -124,20 +107,22 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-5 col-md-6">
-            <div class="about-img">
-              <img src="img/about-img.jpg" alt="">
-            </div>
-          </div>
 
-          <div class="col-lg-7 col-md-6">
+          <div>
             <div class="about-content">
               <h2>About Opencode</h2>
-             
-              <p>OpenCode is a month of opensource where programmers, designers and innovators code, design, learn and build solutions that tackle real-world problems.</p>
+
+              <p>OpenCode is a month of opensource where programmers, designers and innovators code, design, learn and build solutions that tackle real-world problems.
+              It is organised annually by Geekhaven, the technical society of Indian Institute of Information Technology, Allahabad. It aims at giving 
+              a hands on experience of Open source to the newbies as well as the pros. </p>
+              <p>
+              The participants compete in this month long battle of development, completing tasks of Web Development, App Development, Design,
+                Programming, Machine Learning and many more, all wishing to see their names at the top of the glorious Leaderboard!
+              </p>
+
 
               <ul>
-               
+
               </ul>
             </div>
           </div>
@@ -155,7 +140,7 @@
   </main>
 
 
-  
+
 
 <!--==========================
     Projects Section
@@ -167,22 +152,22 @@
   			<div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6">
   				<span class="proj_name">MoviesSearch <img src = "icon/movie.png" width = "50px" height = "50px"></span>
   				<p class="proj">A React based application for searching movies.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/MoviesSearch';"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/MoviesSearch" target="__blank"><button class = "links"><span>Project Repository</span></button></a>
   			</div>
   			<div class=" box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">NEWS-Bucket <img src = "icon/news.png" width = "50px" height = "50px"></span>
   				<p class = "proj">A Kotlin Application that fetches latest news on the go.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/NEWS-Bucket';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/NEWS-Bucket"target="__blank"> <button class = "links" style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
   			</div>
   			<div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Interactive Map <img src = "icon/map.png" width = "45px" height = "40px"></span>
   				<p class = "proj">An interactive mapping web application written in HTML, CSS, JS and jQuery.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/interactive-map';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/interactive-map" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
   			</div>
   			<div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Li Book <img src = "icon/library.png" width = "50px" height = "50px"></span>
-  				<p class = "proj">A Personal digital library application written in HTML, CSS, Vanila JS.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/libook';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<p class = "proj">A Personal digital library application written in HTML.</p>
+  				<a href="https://github.com/opencodeiiita/libook" target="__blank"><button class = "links"  style="margin-top: 75px;"><span>Project Repository</span></button></a>
   			</div>
 
 
@@ -190,67 +175,67 @@
 
   				<span class="proj_name">OpenCode'20 Website <img src = "icon/web.png" width = "40px" height = "40px"></span>
   				<p class = "proj">OpenCode'20 Webite developed collaborativly by participants.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/Opencode-Collaborative-20';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/Opencode-Collaborative-20" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
   			</div>
 
   			<div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
 
   			  <span class="proj_name">OpenCode'20 App <img src = "icon/app.jpeg" width = "40px" height = "40px"></span>
   			  <p class = "proj">OpenCode'20 App developed collaborativly by participants.</p>
-  			  <button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/Opencode20-Collaborative-TheApp';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  			  <a href="https://github.com/opencodeiiita/Opencode20-Collaborative-TheApp"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Sassy CSS Reborn <img src = "https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-26-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A repository for implementing beautiful designs in CSS.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/sassy-css-reborn';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/sassy-css-reborn" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
   			</div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Portal <img src = "https://cdn4.iconfinder.com/data/icons/help-and-support-5/64/info-service-resource-detail-data-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A resource sharing platform.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/Portal';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/Portal" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
   			</div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Destination Portal <img src = "https://cdn1.iconfinder.com/data/icons/popular-vol-1-11/32/popular_75-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A portal for your dream destinations.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/opencode20-destination-portal';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/opencode20-destination-portal" target="__blank"><button class = "links" style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Opencode20 Leaderboard Frontend <img src = "https://cdn0.iconfinder.com/data/icons/forgen-seo-1/64/keywords-rankings-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A portal for your dream destinations.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/Opencode-20-Leaderboard-Frontend';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/Opencode-20-Leaderboard-Frontend" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">SilverBook <svg height="45" viewBox="0 0 64 64" width="45" xmlns="http://www.w3.org/2000/svg"><g id="Certificate-5" data-name="Certificate"><g fill="#9bc9ff"><path d="m49 40-8 8-8-8a11.993 11.993 0 0 0 -12 12v4h40v-4a12 12 0 0 0 -12-12z"/><path d="m57 35h4l-2-8z"/><path d="m27 21.97a14.909 14.909 0 0 0 2 .98 32.456 32.456 0 0 0 12 2.05 32.456 32.456 0 0 0 12-2.05 14.909 14.909 0 0 0 2-.98v-8.22l-14 5.25-14-5.25z"/><path d="m11 45v-42h-4a4 4 0 0 0 -4 4v46a7.989 7.989 0 0 1 8-8z"/></g><path d="m49 39h-1.1a12.989 12.989 0 0 0 6.1-11v-4.4a15.643 15.643 0 0 0 1.51-.767 1 1 0 0 0 .49-.863v-7.527l1.182-.443h.818v8.184a2.986 2.986 0 0 0 -.215 5.553l-1.755 7.02a1 1 0 0 0 .97 1.243h4a1 1 0 0 0 .97-1.243l-1.755-7.02a2.986 2.986 0 0 0 -.215-5.553v-9.184a1 1 0 0 0 -1-1h-1.818l-9.182-3.443v-5.557a1 1 0 0 0 -1-1h-40a5.006 5.006 0 0 0 -5 5v46a9.011 9.011 0 0 0 9 9h36a1 1 0 0 0 1-1v-4h13a1 1 0 0 0 1-1v-4a13.015 13.015 0 0 0 -13-13zm-2.414 2-5.586 5.586-5.586-5.586zm-5.586-2a11.013 11.013 0 0 1 -11-11v-3.613a35.362 35.362 0 0 0 11 1.613 35.37 35.37 0 0 0 11-1.612v3.612a11.013 11.013 0 0 1 -11 11zm13-17.615a15.064 15.064 0 0 1 -1.382.641 31.421 31.421 0 0 1 -11.618 1.974 31.413 31.413 0 0 1 -11.624-1.977 14.776 14.776 0 0 1 -1.376-.638v-6.192l12.649 4.744a1.009 1.009 0 0 0 .7 0l12.651-4.744zm5 2.615a1 1 0 1 1 -1 1 1 1 0 0 1 1-1zm-.719 10 .719-2.877.719 2.877zm-6.8-20-10.481 3.932-13.152-4.932 13.152-4.932 10.485 3.932h-10.485v2zm-39.481-10h34v3.807l-4.649-1.744a1.009 1.009 0 0 0 -.7 0l-16 6a1 1 0 0 0 0 1.874l1.349.506v7.527a1 1 0 0 0 .49.861 15.423 15.423 0 0 0 1.51.769v4.4a12.989 12.989 0 0 0 6.1 11h-1.1a12.972 12.972 0 0 0 -10.226 5h-10.774zm-8 3a3 3 0 0 1 3-3h3v40.06a8.981 8.981 0 0 0 -5.37 2.575 9.308 9.308 0 0 0 -.63.707zm42 53h-35a7 7 0 1 1 0-14h10.479a12.9 12.9 0 0 0 -1.479 6v4a1 1 0 0 0 1 1h25zm14-5h-38v-3a11.005 11.005 0 0 1 10.606-10.98l5.98 5.98h-12.586v2h30v-2h-12.586l5.98-5.98a11.005 11.005 0 0 1 10.606 10.98z" fill="#57a4ff"/><path d="m8 52h9v2h-9z" fill="#57a4ff"/><path d="m16 40v-32h13v-2h-14a1 1 0 0 0 -1 1v34a1 1 0 0 0 1 1h6v-2z" fill="#57a4ff"/></g></svg></span>
   				<p class = "proj">An Everyday attendance management and GPA prediction app with over 500 users.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/SilverBook';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/SilverBook" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Monty Python Class <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A repository aimed for python learners</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/Monty_Python_Class';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/Monty_Python_Class" target="__blank"><button class = "links" style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">CodeLines <img src = "https://cdn0.iconfinder.com/data/icons/icocentre-free-icons/152/f-code-cpp_128-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A project aimed at encouraging competitive coding among students.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/CodeLines';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/CodeLines" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">Code Like a Girl <img src = "https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/115-girl-2-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">Opencode's girls only repository.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/Code-like-a-Girl';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/Code-like-a-Girl" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
         </div>
         <div class="box d-flex align-content-stretch flex-wrap col-lg-4 col-sm-6" >
   				<span class="proj_name">INTEL-20 <img src = "https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/094-robot-face-3-512.png" width = "45px" height = "45px"></span>
   				<p class = "proj">A machine learning repository.</p>
-  				<button class = "links" onclick="window.location.href = 'https://github.com/opencodeiiita/INTEL-20';" style="margin-top: 0.1px;"><span>Project Repository</span></button>
+  				<a href="https://github.com/opencodeiiita/INTEL-20" target="__blank"><button class = "links"  style="margin-top: 0.1px;"><span>Project Repository</span></button></a>
   			</div>
 
-      
+
   		</div>
   	</div>
   </main>
 
- 
+
 
 
 <!--==========================
@@ -263,11 +248,11 @@
       <h1 id="participants">Participants and details</h1>
       <br>
       <!-- <div id ="part_details">
-        
+
       </div> -->
 
-      
-      
+
+
       <div class="col-lg-12 col-md-12 col-xs-12 table-responsive">
         <table class="table  table-hover table-bordered">
         <thead>
@@ -276,7 +261,7 @@
           </tr>
         </thead>
         <tbody id="myTable">
-           
+
         </tbody>
       </table>
     </div>
@@ -286,10 +271,10 @@
       <button type="button" class="btn btn-primary" id="PreValue">Previous</button>
       <button type="button" class="btn  paginationList"> </button>
 
-      
+
       <button type="button" class="btn btn-primary"  id="nextValue">Next</button>
       </div>
-      
+
 </div>
 </div>
 </main>
@@ -307,7 +292,7 @@
         </div>
         <div class="col-lg-1 col-md-2 col-xs-6 padding">
         <button class="col-lg-12 col-xs-12 bgColor" id="nextValue">Next</button>
-        </div>	
+        </div>
       </div>
       </div> -->
   <!--==========================
@@ -329,7 +314,7 @@
       <div class="copyright">
         &copy; Copyright <strong>OC</strong>. All Rights Reserved
       </div>
-      
+
     </div>
   </footer><!-- #footer -->
   </div>
