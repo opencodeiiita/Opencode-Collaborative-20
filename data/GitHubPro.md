@@ -17,4 +17,6 @@
 * Piyush Gurjar - [Piyush4064](https://github.com/Piyush4064)
 * Kaushal Sahu - [KaushalSahu](https://github.com/KaushalSahu)
 * Aman Singh - [prince-7](https://github.com/prince-7)
-*Ankit Gupta- [ankit4284](https://github.com/ankit4284)
+* Ankit Gupta- [ankit4284](https://github.com/ankit4284)
+* Snehalreet Kaur - [snehal199](https://github.com/snehal199)
+* Avneesh Kumar - [Cybertron-Avneesh](https://github.com/Cybertron-Avneesh)
