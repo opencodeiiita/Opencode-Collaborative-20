@@ -1,7 +1,26 @@
 (function ($) {
   "use strict";
 
- 
+   //Timer
+  var destination=new Date('Feb 16,2020 00:00:00').getTime();
+  var x=setInterval(function(){
+    var startPt=new Date().getTime();
+    var journey=destination-startPt;
+    document.getElementById('days').textContent = '0'+Math.floor(journey / (1000 * 60 * 60 * 24))+' '+':';
+    if(Math.floor((journey % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))/10>=1)
+      document.getElementById('hours').textContent = Math.floor((journey % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))+' '+':';
+    else
+      document.getElementById('hours').textContent = '0'+Math.floor((journey % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))+' '+':';
+    if(Math.floor((journey % (1000 * 60 * 60)) / (1000 * 60))/10>=1)
+      document.getElementById('minutes').textContent = Math.floor((journey % (1000 * 60 * 60)) / (1000 * 60))+' '+':';
+    else
+      document.getElementById('minutes').textContent ='0'+ Math.floor((journey % (1000 * 60 * 60)) / (1000 * 60))+' '+':';
+    if(Math.floor((journey % (1000 * 60)) / 1000)/10>=1)
+      document.getElementById('seconds').textContent= Math.floor((journey % (1000 * 60)) / 1000);
+    else
+      document.getElementById('seconds').textContent='0'+ Math.floor((journey % (1000 * 60)) / 1000);
+
+  },1000);
 
 
   // Header scroll class
