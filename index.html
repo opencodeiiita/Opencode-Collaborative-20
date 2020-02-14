@@ -320,8 +320,7 @@
   <!--==========================
     Footer
   ============================-->
-  <div class="footer">
-  <footer id="footer" class="section-bg">
+  <footer id="footer">
     <div class="footer-top">
       <div class="container">
         <div class="row">
@@ -331,17 +330,36 @@
         </div>
       </div>
     </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong>OC</strong>. All Rights Reserved
-      </div>
-
-    </div>
-  </footer><!-- #footer -->
-  </div>
-
-
+  <div class="footer">
+   <ul class="social_list list-unstyled mt-4">
+    Find us on:<br>
+    <li>
+        <a href="https://www.facebook.com/opencodeiiita/" >
+            <span class="fa fa-facebook"></span>
+        </a>
+    </li>
+    <li>
+        <a href="https://twitter.com/teamOpencode">
+            <span class="fa fa-twitter"></span>
+        </a>
+    </li>
+   
+    <li>
+        <a href="https://github.com/opencodeiiita">
+            <span class="fa fa-github"></span>
+        </a>
+    </li>
+    <li>
+      <a href="https://opencodeiiita.github.io/">
+          <span class="fa fa-globe"></span>
+      </a>
+  </li>
+  </ul>
+  <div class="text-copyright">
+  © Copyright <strong>OpenCode'20</strong> | GeekHaven - IIIT Allahabad
+  </div> 
+</div>
+</footer>
   <!-- Uncomment below i you want to use a preloader -->
   <!-- <div id="preloader"></div> -->
 
@@ -365,6 +383,54 @@
 
   <script type="text/javascript" src = "data/participants.json"></script>
 
+<style>
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#413e66;
+   color: white;
+   margin-top: 10pt;
+   padding-top: 5pt;
+   padding-bottom: 10pt;
+   text-align: center;
+  }
+
+  .social_list li {
+    display: inline-block;
+}
+
+.social_list li a {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 0.5em;
+    background: #fff;
+    display: block;
+
+}
+
+.social_list li a span {
+    color: black;
+    font-size: 0.9em;
+    text-align: center;
+    margin: 0.2;
+    line-height: 2.5em;
+}
+.social_list :hover{
+  background:cornsilk;
+  border-radius: 50%;
+}
+@media screen and (max-width: 450px) {
+  .text-copyright {
+    display: block;
+    font-size: small;
+  }
+}
+</style>
 
 
 
