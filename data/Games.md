@@ -5,4 +5,4 @@
 4. [Rohini13](https://rohini13.github.io/Tic-Tac-Toe/)
 5. [pradhuman1](https://pradhuman1.github.io/tic-tac-toe/game)
 6. [prince-7](https://prince-7.github.io/)
-
+7. [sarthakm21](https://sarthakm21.github.io/Snake/)
