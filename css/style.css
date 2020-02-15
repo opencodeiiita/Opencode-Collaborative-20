@@ -133,7 +133,7 @@ h6 {
 }
 #Minutes {
   background-color: transparent;
-
+}
 
 #days {
   background-color: transparent;
@@ -934,6 +934,60 @@ h6 {
   border-radius: 25px;
 } */
 
+<<<<<<< HEAD
+.mentCard {
+  margin-top: 30px;
+  background-color: #ffff;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  width: 230px;
+  word-wrap: inherit;
+  transition: 0.3s;
+}
+
+.mentCard:hover {
+  box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.2);
+}
+
+#myMentorTable .tiles {
+  height: auto !important;
+  margin-top: auto !important;
+}
+
+#myMentorTable .card-body {
+  height: auto !important;
+}
+
+#myMentorTable .card-title {
+  font-weight: bold;
+}
+
+#myMentorTable .list-group {
+  margin-top: 15px;
+}
+
+#myMentorTable .proj_name {
+  margin: initial!important;
+  height: initial!important;
+  margin-top: 15px!important;
+}
+
+#myMentorTable .lin {
+  margin: initial!important;
+  margin-left: 10px!important;
+  border-radius: none;
+}
+
+#mentors {
+  margin-top: 1.5em;
+}
+
+.row {
+  justify-content: center;
+  }
+  
+=======
+>>>>>>> d60ab6f83889431f2cacb8fa22b82ee3aa266ab9
 .no-js #loader { display: none;  }
 .js #loader { display: block; position: absolute; left: 100px; top: 0; }
 .se-pre-con {
@@ -944,4 +998,8 @@ h6 {
 	height: 100%;
 	z-index: 9999;
 	background: url("../img/giphy-downsized.gif") center no-repeat,#d3d3d3;
+<<<<<<< HEAD
+
+=======
+>>>>>>> d60ab6f83889431f2cacb8fa22b82ee3aa266ab9
 }
