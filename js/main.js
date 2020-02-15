@@ -71,7 +71,7 @@ $(document).ready(function() {
         return false;
     });
     var table =  $('#myTable');
-
+    partDetails.sort(function(a, b){if(a.name < b.name){return -1;}if(a.name > b.name){return 1;}return 0;})
     var max_size=partDetails.length;
     var sta = 0;
     var elements_per_page = 8;
