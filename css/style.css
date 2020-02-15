@@ -1,12 +1,29 @@
 .bgColor,
 button:focus {
   background-color: #315972;
+  
+
   color: #ffffff;
 }
+
+div .single-blog:hover  {
+   box-shadow:0px 0px 20px 1px rgba(0,0,0,0.6);
+}
+.single-blog{
+  box-shadow:0px 0px 20px 1px rgba(0,0,0,0.2);
+  width:80%;
+  margin-top:30px;
+  background-color:#ffff;
+padding-top:15px;
+padding-bottom:24px;
+  text-align: center;
+}
+
 #PreValue,
 #nextValue {
   border: 5px;
   float: center;
+
   height: 34px;
   background-color: #64aed0;
   border-radius: 5px;
@@ -671,9 +688,13 @@ h6 {
   font-family: "Montserrat", sans-serif;
   font-size: 22.5px;
   font-weight: 400;
-  margin: 10px;
+
   height: 100px;
-  display: inline-block;
+  font-weight: bold;
+  display : inline-block;
+  margin-bottom:-5px;
+  padding-top:5px;
+
 }
 
 .proj {
@@ -681,10 +702,11 @@ h6 {
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-weight: 450;
-  margin: 30px;
+  
   text-align: center;
   display: inline-block;
   height: 150px;
+
 }
 
 .links {
@@ -695,9 +717,18 @@ h6 {
   height: 50px;
   /*   
   top: 250px; */
-  padding: 5px 5px;
-  text-align: center;
-  text-decoration: none;
+
+  margin:auto;
+ 
+
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+   
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+
 
   display: inline-block;
   font-size: 15px;
@@ -817,6 +848,23 @@ h6 {
   display: inline-block;
   font-size: 10px;
   margin: 1%;
+}
+@media only screen and (max-width: 1200px ) and (min-width: 995px){
+  #silver{
+    margin-top:40px !important;
+  }
+  #python_pro{
+    margin-top:20px !important;
+  }
+  #leaderboard{
+    margin-top:-50px !important;
+  }
+  
+}
+@media only screen and (max-width: 990px ){
+  #leaderboard{
+    margin-top:-80px !important;
+  }
 }
 /* .box {
   height: 300px;
