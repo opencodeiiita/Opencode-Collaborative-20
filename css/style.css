@@ -874,8 +874,15 @@ h6 {
   color: #413e66;
   font-family: "Montserrat", sans-serif;
   font-weight: 100px;
+  position: relative;
+  left: 38%;
+  padding-top: 100px;
 }
-
+@media (max-width: 991px) {
+  #participants {
+    left: 26%;
+  }
+}
 .proimg {
   margin: 10%;
   border-radius: 40px;
@@ -934,7 +941,62 @@ h6 {
   border-radius: 25px;
 } */
 
-<<<<<<< HEAD
+
+.card {
+  box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.1);
+  /*border: 2px solid black;*/
+  /*background-color: #add8e6;*/
+  /*background-image: linear-gradient(#add8e6, white);*/
+  width: 13rem !important;
+  height: 450px !important;
+  text-align: center !important;
+  font-family: Georgia, serif !important;
+}
+
+.card-img-top {
+  height: 160px !important;
+  /*border-bottom: 1px solid black;*/
+}
+.card-title {
+  height: 100px !important;
+}
+.card-body {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.list-group-flush {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  height: 140px !important;
+}
+.pointer {
+  cursor: pointer;
+}
+/*.proj_name {
+  height: 50px !important;
+  position: relative !important;
+  bottom: -80px !important;
+}*/
+.list-group-item {
+  height: 140px !important;
+  border: 1px solid #bbb;
+  background-color: transparent !important;
+}
+
+.card:hover {
+  box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.3);
+}
+.fa:hover {
+  transform: scale(1.2);
+}
+
+
+
 .mentCard {
   margin-top: 30px;
   background-color: #ffff;
@@ -986,8 +1048,7 @@ h6 {
   justify-content: center;
   }
   
-=======
->>>>>>> d60ab6f83889431f2cacb8fa22b82ee3aa266ab9
+
 .no-js #loader { display: none;  }
 .js #loader { display: block; position: absolute; left: 100px; top: 0; }
 .se-pre-con {
@@ -998,8 +1059,8 @@ h6 {
 	height: 100%;
 	z-index: 9999;
 	background: url("../img/giphy-downsized.gif") center no-repeat,#d3d3d3;
-<<<<<<< HEAD
 
-=======
->>>>>>> d60ab6f83889431f2cacb8fa22b82ee3aa266ab9
+
+
 }
+
