@@ -29,16 +29,18 @@
 
 
   <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.css">
+  <link rel="stylesheet" href="https://rawgit.com/alvarotrigo/fullPage.js/dev/src/fullpage.css">
 <script src="https://unpkg.com/bootstrap-table@1.15.5/dist/bootstrap-table.min.js"></script>
 </head>
 
 <body>
 
   <div class="se-pre-con"></div>
-
+  <div id="fullpage">
   <!--==========================
   Header
   ============================-->
+  <div class="section" data-anchor="homed">
   <header id="header">
 
     <div id="topbar">
@@ -51,18 +53,18 @@
 
       <div class="logo float-left">
 
-        <h1 class="text-light"><a href="#intro" class="scrollto"><span>OPENCODE'20</span></a></h1>
+        <h1 class="text-light"><a href="#introd" class="scrollto"><span>OPENCODE'20</span></a></h1>
         <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="#intro">Home</a></li>
-          <li><a href="#about">About Us</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#participants">Participants</a></li>
-          <li><a href="#mentors">Mentors</a></li>
-          <li><a href="#footer">Contact Us</a></li>
+          <li class="active"><a href="#introd">Home</a></li>
+          <li><a href="#aboutd">About Us</a></li>
+          <li><a href="#projectsd">Projects</a></li>
+          <li><a href="#participantsd">Participants</a></li>
+          <li><a href="#mentorsd">Mentors</a></li>
+          <li><a href="#footerd">Contact Us</a></li>
           <li>
             <a href="https://www.facebook.com/opencodeiiita/"><i class="fa fa-facebook"></i></a></li>
               <li>
@@ -74,22 +76,25 @@
 
     </div>
   </header><!-- #header -->
+
 <!--==========================
     Landing Section
   ============================-->
   <section id="landing">
     <img  id="one" src="https://raw.githubusercontent.com/opencodeiiita/Opencode-Collaborative-19/master/assets/img/opencode-banner.jpg">
   </section>
+</div>
   <!--==========================
     Intro Section
   ============================-->
+  <div class="section" data-anchor="introd">
   <section id="intro" class="clearfix">
     <div class="container  d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
           <h2>Get started with your<br>Opensource Business!</span></h2>
           <div>
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <a href="#aboutd" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
 
@@ -100,7 +105,8 @@
 
     </div>
   </section><!-- #intro -->
-
+</div>
+<div class="section" data-anchor="aboutd">
   <main id="main">
 
     <!--==========================
@@ -136,12 +142,8 @@
     </section><!-- #about -->
 
   </main>
+</div>
 
-
-  		</div>
-  		</div>
-  	</div>
-  </main>
 
   <!--==========================
     Timer
@@ -167,7 +169,7 @@
 
 
 
-
+  <div class="section" data-anchor="projectsd">
 <!--==========================
     Projects Section
   ============================-->
@@ -303,7 +305,14 @@
   		</div>
   	</div>
   </main>
+
+  </div>
+
+
+  <div class="section" data-anchor="participantsd">
+
   
+
 
 <!--==========================
     Participants and details
@@ -344,11 +353,12 @@
 </div>
 </div>
 </main>
+</div>
 
 <!--==========================
     Mentors and details
   ============================-->
-
+  <div class="section" data-anchor="mentorsd">
   <main id = "main">
     <div class="container">
       <div class="row ch">
@@ -373,8 +383,7 @@
 </div>
 </div>
 </main>
-
-
+  </div>
     <!-- </div>
     <div class="col-lg-12 col-md-12 col-xs-12">
       <div class="col-lg-6 col-md-6 col-xs-12 pull-right" id="para">
@@ -393,6 +402,7 @@
   <!--==========================
     Footer
   ============================-->
+  <div class="section fp-auto-height" data-anchor="footerd">
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
@@ -433,6 +443,8 @@
   </div> 
 </div>
 </footer>
+</div>
+</div>
   <!-- Uncomment below i you want to use a preloader -->
   <!-- <div id="preloader"></div> -->
 
@@ -455,6 +467,11 @@
   <script src="js/main.js"></script>
 
   <script type="text/javascript" src = "data/participants.json"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/fullpage.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/vendors/scrolloverflow.js"></script>
+
+
   <script type="text/javascript" src = "data/mentors.json"></script>
 
 <style>
@@ -510,6 +527,12 @@
     $(window).load(function() {
         // Animate loader off screen
         $(".se-pre-con").fadeOut("slow");
+      });
+      new fullpage('#fullpage', {
+        //options here
+        autoScrolling:true,
+        scrollOverflow:true,
+        anchors: ['homed', 'introd', 'aboutd', 'projectsd', 'participantsd', 'mentorsd', 'footerd']
       });
       </script>
 
